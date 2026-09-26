@@ -1,0 +1,1660 @@
+﻿key,english,zh_TW
+AddFriendToDM,Add friend to DM,新增好友至私訊
+AddMemberFailed,There was a problem adding members to your group.,將成員加入您的群組時發生問題。
+AddMemberFailedTitle,Couldn’t add members,無法新增成員
+AddMemberLimitExceeded,The people you selected can’t join more conversations right now.,您選取的人目前無法再加入更多對話。
+AddMembers,Add members,新增成員
+AddMoreCommentsBeforeSending,You can add comments before sending,您可以在傳送前加入更多留言
+AddNote,Add note,新增記事
+AddPasskey,Add Passkey,新增 Passkey
+AddPaymentMethod,Add payment method,新增付款方式
+AddReaction,Add reaction,新增表情回應
+AddReactions,Add Reactions,新增表情回應
+AddReactionsDescription,Add reactions to messages. Remove reactions that you added.,在訊息中加入表情回應。移除您加入的表情回應。
+AddRole,Add role,新增身分組
+AddUser,Add user,新增使用者
+Additionally,"Additionally, you can ",此外，您可以
+AdjustBanner,Adjust banner,調整橫幅
+AdjustIcon,Adjust icon,調整圖示
+AdjustPicture,Adjust picture,調整圖片
+AdminDeafen,Admin deafen,管理員靜音耳機
+AdminDeafened,Admin deafened,已被管理員靜音耳機
+AdminMute,Admin mute,管理員靜音
+AdminMuted,Admin muted,已被管理員靜音
+AdministrativePermission,Administrative permission,管理權限
+Advanced,Advanced,進階
+AdvancedSettings,Advanced settings,進階設定
+AgeRestrictedCommunityJoinDescription,This community is age-restricted. You must confirm that you are 18 years or older to join.,此社群設有年齡限制。您必須確認自己年滿 18 歲才能加入。
+AgeRestrictedCommunityJoinTitle,Age-Restricted Community,年齡限制社群
+AgeRestrictedConfirmButton,I am 18 or older,我已年滿 18 歲
+AgeRestrictedServer,Age-restricted community,年齡限制社群
+AgeRestrictedServerDescription,Users will need to confirm they are 18 or older to view the content in this community.,使用者必須確認年滿 18 歲才能檢視此社群的內容。
+All,All,全部
+All community members,Community options,社群選項
+AllChannels,Community,社群
+AllCommunities,All communities,所有社群
+AllMessages,All messages,所有訊息
+AlreadyHaveAnAccount,Already have an account? ,已經有帳號了嗎？
+AlreadyMemberOfCommunity,You are already a member of this community,您已經是此社群的成員
+AlreadyMovingCapitalized,ALREADY MOVING,搬移中
+And,and ,和
+AnotherCommunity,another community,另一個社群
+App,App,App
+AppAddedCommunityLog,**{0}** added the app **{1}**.,**{0}** 新增了 App **{1}**。
+AppAlreadyInCommunityDescription,**{0}** is already added to this community. Each app can only be added once per community.,**{0}** 已加入此社群。每個 App 每個社群只能加入一次。
+AppAlreadyInCommunityTitle,App already added,App 已加入
+AppBotChannelAssignmentDescription,"Assign this app or bot to channels. Once assigned, it can see those channels and all of its default permissions apply there.",將此 App 或機器人指派到頻道。指派後，它可以檢視這些頻道，且其預設權限會套用於該處。
+AppBotSlots,{0} App/Bot Slots,{0} 個 App／機器人欄位
+AppChannelPermissionsAllCaps,APP CHANNEL PERMISSIONS,APP 頻道權限
+AppChannelPermissionsDescription,"These permissions control who can see this app channel and who can change its name, description, and icon. To control what the app itself can do, assign roles directly to the app in Community Settings.",這些權限控制誰能檢視此 App 頻道，以及誰能變更其名稱、說明與圖示。若要控制 App 本身能做什麼，請在社群設定中直接為 App 指派身分組。
+AppChannels,App Channels,App 頻道
+AppInstallLimitExceeded,Not enough free cores to install this app,核心數不足，無法安裝此 App
+AppRemovedCommunityLog,**{0}** removed the app **{1}**.,**{0}** 移除了 App **{1}**。
+AppSettings,APP SETTINGS,APP 設定
+AppStoreDevCalloutSubtitle,Join the developer community to learn more,加入開發者社群以了解更多
+AppStoreDevCalloutTitleApp,Build an app on Root,在 Root 上建立 App
+AppStoreDevCalloutTitleBot,Build a bot on Root,在 Root 上建立機器人
+AppStoreDeveloperCallout,"Create deeply integrated apps that live inside communities, not beside them.",打造深度整合、存在於社群內部而非旁邊的應用程式。
+AppStoreEyebrow,ROOT APP STORE,ROOT APP 商店
+AppStoreHeadline,Your Community. Supercharged.,您的社群。全面升級。
+AppStoreHeadlineAccent,Supercharged.,全面升級。
+AppStoreHeadlinePrimary,Your Community.,您的社群。
+AppStoreSubheadline,Discover apps that turn your community into a fully-featured platform,探索能將您的社群變成完整平台的 App
+AppStoreViewOnlyHintApp,"To install this app, go to your community.",若要安裝此 App，請前往您的社群。
+AppStoreViewOnlyHintBot,"To install this bot, go to your community.",若要安裝此機器人，請前往您的社群。
+AppSuspendedCommunityLog,**{0}** has been suspended due to insufficient cores.,**{0}** 因核心數不足而遭到停用。
+AppThemeCapitalized,APP THEME,APP 佈景主題
+Apply,Apply,套用
+Apps,Apps,App
+AppsAndBots,Apps & Bots,App 與機器人
+AppsEmpty,No apps found,找不到任何 App
+AppsEmptyDescription,There were no apps found matching your search term,找不到符合您搜尋條件的 App
+AskQuestionsAndMeetPeople,Ask questions and meet new people,發問並認識新朋友
+Assign,Assign,指派
+AssignAndContinue,Assign & continue,指派並繼續
+AssignAndInstall,Assign & install,指派並安裝
+AssignByClickingLevelBadge,Assign it by clicking a community's level badge,按一下社群的等級徽章即可指派
+AssignCore,Assign core,指派核心
+AssignCoreAndInstall,Assign core & install,指派核心並安裝
+AssignCoreAndInstallAppConfirmationMessage,"This will assign {0} to **{1}**, raising it to level {2}, and continue to **{3}**'s channel setup to finish the install. The core starts powering the community right away.",這會將 {0} 指派給 **{1}**，使其提升至等級 {2}，並繼續 **{3}** 的頻道設定以完成安裝。核心會立即開始為社群供電。
+AssignCoreAndInstallBotConfirmationMessage,"This will assign {0} to **{1}**, raising it to level {2}, and install **{3}** in one step. The core starts powering the community right away.",這會將 {0} 指派給 **{1}**，使其提升至等級 {2}，並一步安裝 **{3}**。核心會立即開始為社群供電。
+AssignCoreConfirmationMessage,"Assign 1 of your cores to **{0}**? It will start powering the community right away, raising it to level {1}.",將您的 1 個核心指派給 **{0}**？它會立即開始為社群供電，使其提升至等級 {1}。
+AssignCoresAndInstall,Assign {0} cores & install,指派 {0} 個核心並安裝
+AssignedCapitalized,ASSIGNED,已指派
+AssigningCore,Assigning core…,正在指派核心…
+AssigningCoreAndInstalling,Assigning core & installing…,正在指派核心並安裝…
+AtTheNextRenewal,at the next renewal,於下次續訂時
+AttachFiles,Attach Files,附加檔案
+AttachFilesDescription,Include files in your messages.,在訊息中加入檔案。
+Attachment,Attachment,附件
+AttachmentPreview,Attachment,附件
+Attachments,attachments,附件
+Audio,Audio,音訊
+AudioAndVideo,Audio and video,音訊與視訊
+AudioSettings,Audio settings,音訊設定
+AutomaticGainControl,Automatic gain control,自動增益控制
+AutomaticGainControlDescription,Automatically adjusts your microphone volume to maintain consistent levels,自動調整麥克風音量，以維持一致的音量水準
+AvailableCapitalized,AVAILABLE,可用
+AvailableCore,Available core,可用核心
+AvailableForAppsAndBots,available for apps & bots,可供 App 與機器人使用
+Away,Away,離開
+B,B,B
+Back,Back,返回
+BackToApps,Back to apps,返回 App
+BadgeObtainedOnDate,Obtained {0},獲得於 {0}
+Ban,Ban,封鎖
+BanCreatedCommunityLog,**{0}** banned **{1}** from the community.,**{0}** 將 **{1}** 封鎖出社群。
+BanDateCapitalized,BAN DATE,封鎖日期
+BanMember,Ban member,封鎖成員
+BanMemberConfirmationMessage,Are you sure you want to ban **{0}**?,確定要封鎖 **{0}** 嗎？
+BanMembers,Ban Members,封鎖成員
+BanMembersConfirmationMessage,Are you sure you want to ban **{0}** members?,確定要封鎖 **{0}** 位成員嗎？
+BanMembersReasonTitle,Why are you banning these members?,您為何要封鎖這些成員？
+BanReason,Ban Reason,封鎖原因
+BanReasonCapitalized,BAN REASON,封鎖原因
+BanReasonTitle,Why are you banning {0}?,您為何要封鎖 {0}？
+BanRemovedCommunityLog,**{0}** unbanned **{1}**.,**{0}** 解除封鎖了 **{1}**。
+BanUser,Ban user,封鎖使用者
+BanUserDescription,Allows members to ban users with lower level,允許成員封鎖等級較低的使用者
+Banned,banned,已封鎖
+BannedByCapitalized,BANNED BY,封鎖者
+BannedMember,Banned member,已封鎖的成員
+BannedMembers,Banned members,已封鎖的成員
+BannedMembersCount,{0} members,{0} 位成員
+BannedMembersEmpty,No banned members,沒有已封鎖的成員
+BannedMembersEmptyDescription,There are currently no banned members in the community,社群中目前沒有已封鎖的成員
+Banner,Banner,橫幅
+BannerRecommendedSize,Recommended size: 600×220,建議尺寸：600×220
+BanningMember,Banning member,正在封鎖成員
+BanningMembers,Banning members,正在封鎖成員
+BeingRemoved,Being removed,正在移除
+BetaExplanationText,"Some features are still evolving, and you may run into the occasional bug. This phase is all about learning in the open. Your feedback helps shape what Root becomes.",部分功能仍在發展中，您可能會遇到偶發錯誤。這個階段的重點是公開學習。您的回饋有助於塑造 Root 的未來。
+Billing,Billing,帳單
+BillingErrorCheckoutGeneric,We couldn't complete your checkout. Please try again.,我們無法完成您的結帳。請再試一次。
+BillingErrorLoadGeneric,We couldn't load your billing details. Please try again.,我們無法載入您的帳單資料。請再試一次。
+BillingErrorServer,Our payment service is temporarily unavailable. Please try again shortly.,我們的付款服務暫時無法使用。請稍後再試。
+BillingErrorTimeout,The request timed out. Please try again.,要求逾時。請再試一次。
+BillingErrorTooManyRequests,Too many attempts. Please wait a moment and try again.,嘗試次數過多。請稍候片刻再試。
+BillingErrorUnauthenticated,Your session has expired. Please sign in again and retry.,您的工作階段已過期。請重新登入後再試。
+BillingSettings,BILLING SETTINGS,帳單設定
+Bio,Bio,個人簡介
+BioPlaceholder,Tell us about yourself,跟我們聊聊你自己吧
+BioSubtitle,You can use markdown and links if you'd like.,如果需要，您可以使用 Markdown 與連結。
+Block,Block,封鎖
+BlockUser,Block user,封鎖使用者
+BlockUserConfirmationMessage,"Are you sure you want to block **{0}**?
+
+We'll hide their messages and any notifications. You'll still be able to interact with them in voice calls.","確定要封鎖 **{0}** 嗎？
+
+我們會隱藏他們的訊息與所有通知。您仍然可以在語音通話中與他們互動。"
+BlockedMessage,Blocked message,已封鎖的訊息
+BlockedUsers,Blocked users,已封鎖的使用者
+BlockedUsersEmpty,No blocked users,沒有已封鎖的使用者
+BlockedUsersEmptyDescription,You currently have no blocked users,您目前沒有已封鎖的使用者
+BlockingUser,Blocking user,正在封鎖使用者
+Bold,Bold,粗體
+Bot,Bot,機器人
+BotInstallFailed,Failed to install bot,無法安裝機器人
+BotInstalled,Bot installed,機器人已安裝
+Bots,Bots,機器人
+BotsEmpty,No bots found,找不到任何機器人
+BotsEmptyDescription,There were no bots found matching your search term,找不到符合您搜尋條件的機器人
+BrowseBotStore,Browse the bot store,瀏覽機器人商店
+BuildAnythingYourCommunityNeeds,Build anything your community needs.,打造您社群需要的任何東西。
+BuildAppsForRoot,Build on Root,在 Root 上開發
+BuyCoresDirectly,"Buy cores directly, no Sudo subscription needed.",直接購買核心，不需要 Sudo 訂閱。
+BySigningUpYouAgreeToRoots,"By signing up, you agree to Root's",註冊即表示您同意 Root 的
+Call,Call,通話
+Camera,Camera,相機
+CameraDeviceErrorDescription,"Could not start your camera. Make sure a camera is connected and selected in your Voice & Video settings, then try again. You are still in the call.",無法啟動您的相機。請確認相機已連接並在「語音與視訊」設定中選取，然後再試一次。您仍在通話中。
+CameraDeviceErrorTitle,Camera error,相機錯誤
+CanNotInviteBannedUser,Can not invite a banned user,無法邀請已封鎖的使用者
+Cancel,Cancel,取消
+CancelMove,Cancel move,取消搬移
+CancelMoveConfirmationMessage,The scheduled move will be cancelled and your core will stay assigned to **{0}**.,已排定的搬移將被取消，您的核心會繼續指派給 **{0}**。
+CancelPack,Cancel pack,取消組合包
+CancelPackConfirmationMessage,"Cancel this pack of {0} cores? They'll keep powering their communities until the end of your paid period {1}, then they'll be removed and billing stops.",要取消這組 {0} 個核心的組合包嗎？它們會持續為社群供電直到您的付費期間 {1} 結束，之後將被移除並停止計費。
+CancelRemoval,Cancel removal,取消移除
+CancelRemovalConfirmationMessage,The scheduled removal will be cancelled and your core will stay assigned to **{0}**.,已排定的移除將被取消，您的核心會繼續指派給 **{0}**。
+CancelSubscription,Cancel subscription,取消訂閱
+CancelSubscriptionConfirmationFallbackMessage,Are you sure you want to cancel your Sudo subscription? You'll keep all Sudo perks until the end of the current billing period.,確定要取消您的 Sudo 訂閱嗎？您將保留所有 Sudo 權益直到目前計費週期結束。
+CancelSubscriptionConfirmationMessage,Are you sure you want to cancel your Sudo subscription? You'll keep all Sudo perks until {0}.,確定要取消您的 Sudo 訂閱嗎？您將保留所有 Sudo 權益直到 {0}。
+CancelSubscriptionConfirmationTitle,Cancel subscription?,取消訂閱？
+Cancelling,Cancelling…,正在取消…
+CancellingSubscription,Cancelling subscription...,正在取消訂閱...
+CapacityWarningManyCores,{0} cores are leaving {1}. That drops you to {2} slots with {3} apps & bots installed — add cores to avoid suspensions.,{0} 個核心將離開 {1}。這會讓您降至 {2} 個欄位，且有 {3} 個 App 與機器人已安裝——請新增核心以避免停用。
+CapacityWarningOneCore,1 core is leaving {0}. That drops you to {1} slots with {2} apps & bots installed — add cores to avoid suspensions.,1 個核心將離開 {0}。這會讓您降至 {1} 個欄位，且有 {2} 個 App 與機器人已安裝——請新增核心以避免停用。
+Categories,CATEGORIES,類別
+Category,Category,類別
+CategoryAll,All,全部
+CategoryArtAndCreative,Art & Creative,藝術與創作
+CategoryEducation,Education,教育
+CategoryGaming,Gaming,遊戲
+CategoryMusic,Music,音樂
+CategorySocial,Social,社群
+CategorySports,Sports,運動
+CategoryTechnology,Technology,科技
+ChangeEmail,Change email,變更電子郵件
+ChangeNickname,Change Nickname,變更暱稱
+ChangeOtherNicknames,Change Other Nicknames,變更他人的暱稱
+ChangePassword,Change password,變更密碼
+ChangingEmail,Changing email,正在變更電子郵件
+Channel,Channel,頻道
+ChannelAddedToGroupCommunityLogDetail,Added to **{0}**.,已新增至 **{0}**。
+ChannelAssignment,Channel assignment,頻道指派
+ChannelChannelGroupUpdatedCommunityLogDetail,Changed the channel group from **{0}** to **{1}**.,將頻道群組從 **{0}** 變更為 **{1}**。
+ChannelCreatedCommunityLog,**{0}** created **#{1}**.,**{0}** 建立了 **#{1}**。
+ChannelDeletedCommunityLog,**{0}** deleted **#{1}**.,**{0}** 刪除了 **#{1}**。
+ChannelDescription,Channel description,頻道說明
+ChannelDescriptionChangedSystemMessage,{0} set the *channel description* to **{1}**,{0} 將「頻道說明」設定為 **{1}**
+ChannelDescriptionCreatedCommunityLogDetail,"Set the description to ""{0}"".",將說明設定為「{0}」。
+ChannelDescriptionRemovedCommunityLogDetail,Removed the description.,已移除說明。
+ChannelDescriptionRemovedSystemMessage,{0} removed the *channel description*,{0} 移除了「頻道說明」
+ChannelDescriptionUpdatedCommunityLogDetail,"Changed the description from ""{0}"" to ""{1}"".",將說明從「{0}」變更為「{1}」。
+ChannelGroupColon,Channel Group:,頻道群組：
+ChannelGroupContainsAppDescription,**{0}** contains an app channel. You must remove or move the app channel before deleting this channel group. Apps can be removed from community settings.,**{0}** 包含 App 頻道。您必須先移除或搬移該 App 頻道，才能刪除此頻道群組。App 可從社群設定中移除。
+ChannelGroupContainsAppTitle,Cannot delete channel group,無法刪除頻道群組
+ChannelGroupCreatedCommunityLog,**{0}** created a channel group **{1}**.,**{0}** 建立了頻道群組 **{1}**。
+ChannelGroupDeletedCommunityLog,**{0}** deleted a channel group **{1}**.,**{0}** 刪除了頻道群組 **{1}**。
+ChannelGroupName,Channel group name,頻道群組名稱
+ChannelGroupNameUpdatedCommunityLogDetail,Changed the name from **{0}** to **{1}**.,將名稱從 **{0}** 變更為 **{1}**。
+ChannelGroupPermissionUpdatedActionLogDetail,**{0}** = **{1}**.,**{0}** = **{1}**。
+ChannelGroupUpdatedCommunityLog,**{0}** updated the channel group **{1}**.,**{0}** 更新了頻道群組 **{1}**。
+ChannelIconCreatedCommunityLogDetail,Set the icon.,已設定圖示。
+ChannelIconRemovedCommunityLogDetail,Removed the icon.,已移除圖示。
+ChannelIconUpdatedCommunityLogDetail,Changed the icon.,已變更圖示。
+ChannelName,Channel name,頻道名稱
+ChannelNameAndDescriptionChangedSystemMessage,{0} set the *channel name* to **{1}** and *channel description* to **{2}**,{0} 將「頻道名稱」設定為 **{1}**，並將「頻道說明」設定為 **{2}**
+ChannelNameAndDescriptionRemovedSystemMessage,{0} set the *channel name* to **{1}** and removed the *channel description*,{0} 將「頻道名稱」設定為 **{1}**，並移除了「頻道說明」
+ChannelNameChangedSystemMessage,{0} set the *channel name* to **{1}**,{0} 將「頻道名稱」設定為 **{1}**
+ChannelNameCreatedCommunityLogDetail,Set the name to **#{0}**.,將名稱設定為 **#{0}**。
+ChannelNameUpdatedCommunityLogDetail,Changed the name from **#{0}** to **#{1}**.,將名稱從 **#{0}** 變更為 **#{1}**。
+ChannelOptions,Channel options,頻道選項
+ChannelPermissions,Channel permissions,頻道權限
+ChannelReference,#{0},#{0}
+ChannelRemovedFromGroupCommunityLogDetail,Removed from channel group **{0}**.,已從頻道群組 **{0}** 移除。
+ChannelSyncCreatedCommunityLogDetail,Synced to parent channel group,已同步至父頻道群組
+ChannelSyncRemovedCommunityLogDetail,Unsynced from parent channel group,已取消與父頻道群組的同步
+ChannelSyncedToChannelGroupTooltip,Synced to channel group. Managed by the parent.,已同步至頻道群組。由父群組管理。
+ChannelType,Channel type,頻道類型
+ChannelTypeApp,App channel,App 頻道
+ChannelTypeAppDescription,Interactive experiences where users can engage with custom apps and graphical interfaces,互動式體驗，使用者可以在其中使用自訂 App 與圖形介面
+ChannelTypeCreatedCommunityLogDetail,Set the channel type to **{0}**.,將頻道類型設定為 **{0}**。
+ChannelTypeText,Text channel,文字頻道
+ChannelTypeTextDescription,Linear conversations where users can send and receive messages in real-time,線性對話，使用者可以在其中即時收發訊息
+ChannelTypeVoice,Voice channel,語音頻道
+ChannelTypeVoiceDescription,Live conversations where users communicate with voice and video,即時對話，使用者可以透過語音與視訊溝通
+ChannelUpdatedCommunityLog,**{0}** updated **#{1}**.,**{0}** 更新了 **#{1}**。
+ChannelVisibilityAllCaps,CHANNEL VISIBILITY,頻道可見度
+ChannelVisibilityDescription,Roles and users in this list can see the channel,此清單中的身分組與使用者可以檢視該頻道
+ChannelWelcomeDescription,This is the start of the {0} channel,這是 {0} 頻道的起點
+Channels,Channels,頻道
+ChannelsEmpty,No channels found,找不到任何頻道
+ChannelsEmptyDescription,Try more broad search terms,請嘗試更廣泛的搜尋詞
+Chat,Chat,聊天
+ChatOverlayDescription,Display chat messages and notifications over fullscreen games,在全螢幕遊戲上顯示聊天訊息與通知
+ChatOverlayPosition,Chat overlay position,聊天覆疊位置
+ChatOverlayTitle,Enable notification overlay,啟用通知覆疊
+CheckForUpdates,Check for updates,檢查更新
+CheckingYourCores,Checking your cores…,正在檢查您的核心…
+ClearImage,Clear image,清除圖片
+ClearReplies,Clear replies,清除回覆
+ClearTemplate,Clear,清除
+ClickHereToAddANote,Click here to add a note,按這裡新增記事
+ClickToCopy,Click to copy,按一下以複製
+Close,Close,關閉
+CloseCurrentTab,Close tab,關閉分頁
+CloseTab,Close tab,關閉分頁
+CloseToTray,Close to tray,關閉至系統匣
+CloseToTrayDescription,Clicking X will keep the app running in your system tray instead of fully closing it,按 X 時會讓 App 繼續在系統匣中執行，而不是完全關閉
+CloseToTrayDescriptionNote,Note: must restart client to take effect,注意：必須重新啟動用戶端才能生效
+CodeBlock,Code block,程式碼區塊
+Collapse,Collapse,收合
+ColorPickerAlpha,A,A
+ColorPickerBlue,B,B
+ColorPickerGreen,G,G
+ColorPickerHue,H,H
+ColorPickerRed,R,R
+ColorPickerSaturation,S,S
+ColorPickerValue,V,V
+ColumnAmount,AMOUNT,金額
+ColumnDate,DATE,日期
+ColumnDescription,DESCRIPTION,說明
+ColumnStatus,STATUS,狀態
+ColumnType,TYPE,類型
+ComingSoon,COMING SOON,即將推出
+Communities,Communities,社群
+CommunitiesEmpty,No communities,沒有社群
+Community,Community,社群
+CommunityAccess,Community access,社群存取
+CommunityAgeRestrictionUpdatedCommunityLogDetail,Changed age restriction from **{0}** to **{1}**.,將年齡限制從 **{0}** 變更為 **{1}**。
+CommunityAppSuspendedSystemMessage,{0} has been suspended due to insufficient cores,{0} 因核心數不足而遭到停用
+CommunityBannedSystemMessage,{0} banned {1},{0} 封鎖了 {1}
+CommunityBanner,Banner,橫幅
+CommunityBannerCreatedCommunityLogDetail,Added a banner.,已新增橫幅。
+CommunityBannerRecommendedSize,Recommended size 900×300,建議尺寸 900×300
+CommunityBannerRemovedCommunityLogDetail,Removed the banner.,已移除橫幅。
+CommunityBannerUpdatedCommunityLogDetail,Changed the banner.,已變更橫幅。
+CommunityCategory,Category,類別
+CommunityCategoryCreatedCommunityLogDetail,Set the category to **{0}**.,將類別設定為 **{0}**。
+CommunityCategoryPlaceholder,Select a category,選取類別
+CommunityCategoryUpdatedCommunityLogDetail,Changed the category from **{0}** to **{1}**.,將類別從 **{0}** 變更為 **{1}**。
+CommunityChangesSystemMessage,{0} {1},{0} {1}
+CommunityClause_AgeRestrictioneSet,turned on *age restriction*,開啟了「年齡限制」
+CommunityClause_AgeRestrictioneUnSet,turned off *age restriction*,關閉了「年齡限制」
+CommunityClause_BannerUnset,removed the *community banner*,移除了「社群橫幅」
+CommunityClause_BannerUpdated,updated the *community banner*,更新了「社群橫幅」
+CommunityClause_CategorySet,set the *community category* to **{0}**,將「社群類別」設定為 **{0}**
+CommunityClause_ColorSet,changed the *community color* to **{0}**,將「社群顏色」變更為 **{0}**
+CommunityClause_ColorUnset,cleared the *community color*,清除了「社群顏色」
+CommunityClause_DefaultChannelSet,set the *community default channel* to **{0}**,將「社群預設頻道」設定為 **{0}**
+CommunityClause_DefaultChannelUnset,unset the *community default channel*,取消設定了「社群預設頻道」
+CommunityClause_DescriptionUnset,cleared the *community description*,清除了「社群說明」
+CommunityClause_DescriptionUpdated,updated the *community description*,更新了「社群說明」
+CommunityClause_DiscoverableSet,listed the community in *Discovery*,將社群列入了「探索」
+CommunityClause_DiscoverableUnset,removed the community from *Discovery*,將社群從「探索」中移除
+CommunityClause_JoinThrottleSet,turned on *join throttling*,開啟了「加入節流」
+CommunityClause_JoinThrottleUnSet,turned off *join throttling*,關閉了「加入節流」
+CommunityClause_NameSet,set the *community name* to **{0}**,將「社群名稱」設定為 **{0}**
+CommunityClause_NameUnset,cleared the *community name*,清除了「社群名稱」
+CommunityClause_PictureUnset,removed the *community picture*,移除了「社群圖片」
+CommunityClause_PictureUpdated,updated the *community picture*,更新了「社群圖片」
+CommunityClause_RequiredVerifiedSet,turned on *verified member access*,開啟了「僅限已驗證成員存取」
+CommunityClause_RequiredVerifiedUnSet,turned off *verified member access*,關閉了「僅限已驗證成員存取」
+CommunityColor,Community color,社群顏色
+CommunityCoreAssignedSystemMessage,{0} powered up the community with a core,{0} 用核心為社群供電
+CommunityCoreRemovedSystemMessage,A core from {0} was removed from the community,{0} 的核心已從社群移除
+CommunityCreateLimitExceeded,You’re in the maximum number of communities. Leave one to create another.,您已加入最大數量的社群。請先離開一個社群再建立新的。
+CommunityDefaultChannelCreatedCommunityLogDetail,Enabled system messages to be sent to **#{0}**.,已啟用將系統訊息傳送至 **#{0}**。
+CommunityDefaultChannelRemovedCommunityLogDetail,Removed the system messages channel **#{0}**.,已移除系統訊息頻道 **#{0}**。
+CommunityDefaultChannelUpdatedActionLogDetail,Changed the system messages channel from **#{0}** to **#{1}**.,將系統訊息頻道從 **#{0}** 變更為 **#{1}**。
+CommunityDescription,Description,說明
+CommunityDescriptionCreatedCommunityLogDetail,Added a description.,已新增說明。
+CommunityDescriptionPlaceholder,Tell people what your community is about,告訴大家您的社群是什麼
+CommunityDescriptionRemovedCommunityLogDetail,Removed the description.,已移除說明。
+CommunityDescriptionUpdatedCommunityLogDetail,Changed the description.,已變更說明。
+CommunityDiscoverableOffCommunityLogDetail,Removed the community from Discovery.,已將社群從探索中移除。
+CommunityDiscoverableOnCommunityLogDetail,Listed the community in Discovery.,已將社群列入探索。
+CommunityEditedCommunityLog,**{0}** updated the community overview.,**{0}** 更新了社群總覽。
+CommunityEmojisEmpty,No emojis yet,還沒有表情符號
+CommunityEmojisEmptyDescription,Upload custom emojis that anyone in this community can use.,上傳自訂表情符號，讓此社群的所有成員都能使用。
+CommunityFullControl,Community Full Control,社群完整控制
+CommunityHasNoCoresDescription,This community doesn't have any cores yet. Members can power it up by assigning a core from the community's level badge.,此社群還沒有任何核心。成員可以透過社群等級徽章指派核心來為社群供電。
+CommunityImage,Community Image,社群圖片
+CommunityImageCreatedCommunityLogDetail,Set the community image.,已設定社群圖片。
+CommunityImageRemovedCommunityLogDetail,Removed the community image.,已移除社群圖片。
+CommunityImageUpdatedCommunityLogDetail,Changed the image.,已變更圖片。
+CommunityInvitePrivacy,Community invite privacy,社群邀請隱私
+CommunityInvitePrivacyDescription,Control who can send you community invites.,控制誰能傳送社群邀請給您。
+CommunityJoinFailedDescription,"Unable to join this community. The invite link may be invalid, expired, or the community may be temporarily limiting new members.",無法加入此社群。邀請連結可能無效、已過期，或社群暫時限制新成員加入。
+CommunityJoinFailedTitle,Failed to join community,無法加入社群
+CommunityJoinLimitExceededDescription,"This community is full, or you’re already in the maximum number of communities.",此社群已滿，或您已加入最大數量的社群。
+CommunityJoinLimitExceededTitle,Unable to join,無法加入
+CommunityJoinRateLimitedDescription,You’ve joined too many communities recently. Wait a few minutes and try again.,您最近加入了太多社群。請稍候幾分鐘再試。
+CommunityJoinRateLimitedTitle,Too many join attempts,加入嘗試過多
+CommunityJoinThrottleUpdatedCommunityLogDetail,Changed join throttle from **{0}** to **{1}**.,將加入節流從 **{0}** 變更為 **{1}**。
+CommunityJoinedSystemMessage,{0} joined the community!,{0} 加入了社群！
+CommunityKickedSystemMessage,{0} kicked {1},{0} 將 {1} 踢出
+CommunityLeaveSystemMessage,{0} left the community!,{0} 離開了社群！
+CommunityManagement,Community management,社群管理
+CommunityMemberBans,Community bans,社群封鎖
+CommunityMemberInvites,Community Invites,社群邀請
+CommunityName,Community name,社群名稱
+CommunityNameUpdatedCommunityLogDetail,Changed the name from **{0}** to **{1}**.,將名稱從 **{0}** 變更為 **{1}**。
+CommunityOnboardingAddApp,Add your first app,新增您的第一個 App
+CommunityOnboardingDescription,This is your brand new community. Here are some steps to help you get going.,這是您全新的社群。以下是一些幫助您起步的步驟。
+CommunityOnboardingInviteFriends,Invite your friends,邀請您的朋友
+CommunityOnboardingTitle,Get started,開始使用
+CommunityOptions,Community options,社群選項
+CommunityOwner,Community Owner,社群擁有者
+CommunityOwnerDeleteAccountMessage,In order to delete your account you must first transfer ownership of all communities that you own.,若要刪除帳號，您必須先轉移您所擁有所有社群的所有權。
+CommunityOwnerTitle,You're a community owner!,您是社群擁有者！
+CommunityPictureHexUpdatedCommunityLogDetail,Changed the color from **{0}** to **{1}**.,將顏色從 **{0}** 變更為 **{1}**。
+CommunityRequiredVerifiedUpdatedCommunityLogDetail,Changed verified member access from **{0}** to **{1}**.,將已驗證成員存取從 **{0}** 變更為 **{1}**。
+CommunitySandbox,community sandbox,社群沙盒
+CommunitySettings,Community settings,社群設定
+Confirm,Confirm,確認
+ConfirmNewPassword,Confirm new password,確認新密碼
+ConfirmPassword,Confirm password,確認密碼
+ContactConsentDescription,Root may contact me about this issue,Root 可以就此事與我聯絡
+Continue,Continue,繼續
+Copied,Copied!,已複製！
+Copy,Copy,複製
+CopyChannelGroupId,Copy Channel Group ID,複製頻道群組 ID
+CopyChannelId,Copy Channel ID,複製頻道 ID
+CopyCode,Copy code,複製代碼
+CopyCommunityId,Copy Community ID,複製社群 ID
+CopyImage,Copy image,複製圖片
+CopyLink,Copy link,複製連結
+CopyMessage,Copy message,複製訊息
+CopyMessageId,Copy Message ID,複製訊息 ID
+CopyMessageLink,Copy message link,複製訊息連結
+CopyRoleId,Copy Role ID,複製身分組 ID
+CopySelectedText,Copy selected text,複製選取文字
+CopyUserId,Copy User ID,複製使用者 ID
+CoreAssigned,Core assigned,核心已指派
+CoreAssignedCommunityLog,{0} assigned a core to the community,{0} 指派了一個核心給社群
+CoreCanMoveHereNextCycle,A core can move here next cycle,核心可以在下一個週期搬到這裡
+CoreCountPlural,{0} cores,{0} 個核心
+CoreCountSingle,1 core,1 個核心
+CoreInfoDescription,A core is a community power-up. Assign it to a community to raise its level and unlock additional benefits for everyone in it.,核心是社群的能量來源。將它指派給社群以提升等級，並為所有人解鎖額外權益。
+CoreMoveScheduled,Move scheduled,已排定搬移
+CorePack,Core pack,核心組合包
+CorePackPayment,Core pack,核心組合包
+CorePackPaymentOneCore,Core pack (1 core),核心組合包（1 個核心）
+CorePackPaymentWithCount,Core pack ({0} cores),核心組合包（{0} 個核心）
+CoreRemovedCommunityLog,A core from {0} was removed from the community,{0} 的核心已從社群移除
+CoreUnassigned,Core unassigned,核心已取消指派
+Cores,Cores,核心
+CoresAvailableSummary,{0} of {1} available,{0}／{1} 可用
+CoresAvailableToAssign,You have {0} cores available to assign,您有 {0} 個可指派的可用核心
+CoresContributedByMembers,Cores are contributed by members and unlock additional benefits that power up the community.,核心由成員貢獻，可解鎖為社群供電的額外權益。
+CoresLeavingMany,{0} leave {1},{0} 個離開 {1}
+CoresLeavingOne,1 leaves {0},1 個離開 {0}
+Create,Create,建立
+CreateACommunity,Create a community,建立社群
+CreateAccount,Create an account,建立帳號
+CreateBan,Create ban,建立封鎖
+CreateBanReason,Ban reason,封鎖原因
+CreateBanUserId,User Id,使用者 ID
+CreateBanUserIdPlaceholder,User Id,使用者 ID
+CreateBans,Create Bans,建立封鎖
+CreateBansDescription,Ban members from the community for a set or infinite amount of time.,將成員封鎖出社群一段設定或無限的時間。
+CreateChannel,Create channel,建立頻道
+CreateChannelDescription,Allows members to create new channels,允許成員建立新頻道
+CreateChannelGroup,Create channel group,建立頻道群組
+CreateChannelGroupDescription,Create channel groups.,建立頻道群組。
+CreateChannelGroups,Create Channel Groups,建立頻道群組
+CreateCommunity,Create community,建立社群
+CreateCommunityDescription,Start your own space and invite your friends,建立屬於自己的空間並邀請朋友
+CreateDM,Create direct message,建立私訊
+CreateFiles,Create Files,建立檔案
+CreateFolder,Create folder,建立資料夾
+CreateFriendGroup,Create friend group,建立好友群組
+CreateGroup,Create group,建立群組
+CreateInvite,Create Invite,建立邀請
+CreateMessageAttachments,Create Message Attachments,建立訊息附件
+CreateMessageMentions,Create Message Mentions,建立訊息提及
+CreateMessageReactions,Create Message Reactions,建立訊息表情回應
+CreateMessages,Create Messages,建立訊息
+CreateRole,Create Role,建立身分組
+CreateYourOwnCommunity,create your own,建立屬於自己的社群
+CreatingBan,Banning user...,正在封鎖使用者...
+CreatingChannel,Creating channel,正在建立頻道
+CreatingChannelGroup,Creating channel group,正在建立頻道群組
+CreatingCommunity,Creating community,正在建立社群
+CreatingNewGroup,Creating new group,正在建立新群組
+Ctrl,Ctrl,Ctrl
+CurrentEmailCode,Current email code,目前電子郵件驗證碼
+CurrentLevel,Current level,目前等級
+Dark,Dark,深色
+Deafen,Deafen,靜音耳機
+DeafenUser,Deafen user,靜音使用者的耳機
+DeafenUserDescription,Allows members to deafen users with lower level,允許成員靜音等級較低使用者的耳機
+DeafenUsers,Deafen Users,靜音使用者的耳機
+Decline,Decline,婉拒
+DeclinedLowercase,declined,已婉拒
+Default,Default,預設
+DefaultParentheses,(Default),（預設）
+DefaultPaymentMethodSet,Default payment method updated,預設付款方式已更新
+Delete,Delete,刪除
+DeleteAccount,Delete account,刪除帳號
+DeleteAccountConfirmationMessage,Are you sure you want to delete your account? This action is permanent and cannot be undone. Please enter your password to confirm.,確定要刪除您的帳號嗎？此動作是永久的，無法復原。請輸入您的密碼以確認。
+DeleteAll,Delete all,全部刪除
+DeleteChannel,Delete channel,刪除頻道
+DeleteChannelDescription,Allows members to delete channels with equal or lower level,允許成員刪除等級相同或較低的頻道
+DeleteChannelGroup,Delete channel group,刪除頻道群組
+DeleteCommunity,Delete community,刪除社群
+DeleteCommunityLink,Delete link,刪除連結
+DeleteCommunityLinkMessage,Are you sure you want to delete this invite link? This cannot be undone.,確定要刪除此邀請連結嗎？此動作無法復原。
+DeleteConfirmationErrorMessage,Exact name required to confirm deletion.,需要輸入完全相符的名稱才能確認刪除。
+DeleteConfirmationMessage,Are you sure you want to delete **{0}**? This cannot be undone.,確定要刪除 **{0}** 嗎？此動作無法復原。
+DeleteEmoji,Delete Emoji,刪除表情符號
+DeleteEmojiDescription,Permanently delete this emoji. This action cannot be undone.,永久刪除此表情符號。此動作無法復原。
+DeleteFriendGroup,Delete friend group,刪除好友群組
+DeleteFriendGroupConfirmationMessage,Are you sure you want to delete **{0}**?,確定要刪除 **{0}** 嗎？
+DeleteMessage,Delete message,刪除訊息
+DeleteMessageDescription,Permanently delete this message.,永久刪除此訊息。
+DeleteMessageMessage,Are you sure you want to delete this message? This cannot be undone.,確定要刪除此訊息嗎？此動作無法復原。
+DeleteMessages,Delete Messages,刪除訊息
+DeleteMessagesDescription,Delete messages by other members.,刪除其他成員的訊息。
+DeleteNotifications,Delete notifications,刪除通知
+DeleteNotificationsConfirmationMessage,Are you sure you want to delete your notifications? This cannot be undone.,確定要刪除您的通知嗎？此動作無法復原。
+DeletePasskey,Delete,刪除
+DeleteReaction,Delete reaction,刪除表情回應
+DeleteRole,Delete Role,刪除身分組
+DeleteRoleDescription,Permanently delete this role and remove all existing members.,永久刪除此身分組並移除所有現有成員。
+Deleting,Deleting,正在刪除
+DeletingAccount,Deleting account...,正在刪除帳號...
+DeletingChannel,Deleting channel,正在刪除頻道
+DeletingChannelGroup,Deleting channel group,正在刪除頻道群組
+DeletingCommunity,Deleting community,正在刪除社群
+DeletingCommunityLink,Deleting link,正在刪除連結
+DeletingEmoji,Deleting emoji,正在刪除表情符號
+DeletingFriendGroup,Deleting friend group,正在刪除好友群組
+DeletingMessage,Deleting message,正在刪除訊息
+DeletingNotifications,Deleting notifications,正在刪除通知
+DeletingRole,Deleting role,正在刪除身分組
+Description,Description,說明
+DeselectAll,Deselect all,取消全選
+DesktopNotificationsDescription,"Show system notifications for new mentions, DMs, and activity.",為新的提及、私訊與動態顯示系統通知。
+DesktopNotificationsTitle,Desktop notifications,桌面通知
+Destruction,Destruction,破壞
+DestructionCapitalized,DESTRUCTION,破壞
+DeveloperMode,Developer mode,開發者模式
+DeveloperModeDescription,Enable developer mode to access additional options like copying IDs from right-click menus.,啟用開發者模式以存取額外選項，例如從右鍵選單複製 ID。
+DevicePermissionErrorDescription,Could not access your audio device. Please check your device permissions and try again.,無法存取您的音訊裝置。請檢查您的裝置權限後再試。
+DevicePermissionErrorTitle,Audio device error,音訊裝置錯誤
+DirectMessageCallEndedSystemMessage,Call ended after **{1}**,通話已結束，通話時間 **{1}**
+DirectMessageCallStartedSystemMessage,{0} started a call **{1}**,{0} 開始了一通通話 **{1}**
+DirectMessageCreateFailed,Unable to start this conversation. Please try again.,無法開始此對話。請再試一次。
+DirectMessageCreateFailedTitle,Unable to start conversation,無法開始對話
+DirectMessageCreateLimitExceeded,You’ve reached the limit for starting new conversations. Try again later.,您已達到開始新對話的上限。請稍後再試。
+DirectMessageDetails,Direct message details,私訊詳情
+DirectMessagePlaceholder,Message @{0},傳訊息給 @{0}
+DirectMessagePrivacy,Direct message privacy,私訊隱私
+DirectMessagePrivacyDescription,Control who can send you direct messages.,控制誰能傳送私訊給您。
+DirectMessageUserLeftSystemMessage,{0} left the direct message,{0} 離開了私訊
+DirectMessageUsersJoinedSystemMessage,{0} joined the direct message!,{0} 加入了私訊！
+DirectMessageWelcomeDescription,This is the very beginning of your conversation with {0},這是您與 {0} 對話的起點
+DirectMessages,Direct messages,私訊
+DirectMessagesEmpty,You have no direct messages,您沒有任何私訊
+DirectMessagesEmptyDescription,"Your future DMs will appear here, get to chatting!",您未來的私訊會顯示在這裡，開始聊天吧！
+DisableVideo,Disable Video,停用視訊
+Discard,Discard,捨棄
+DiscardUnsavedChanges,Discard unsaved changes?,捨棄未儲存的變更？
+DiscardUnsavedChangesConfirmationMessage,"If you proceed, you will lose all the changes you've made. This cannot be undone.",如果繼續，您將失去所有已做的變更。此動作無法復原。
+Disconnect,Disconnect,中斷連線
+DiscordTemplateUrl,Discord Template URL,Discord 範本 URL
+DiscordTemplateUrlPlaceholder,Discord server template link,Discord 伺服器範本連結
+DiscoverApps,Discover apps,探索 App
+DiscoverCommunities,Discover communities,探索社群
+DiscoverableCommunity,Discoverable Community,可被探索的社群
+Discovery,Discovery,探索
+DiscoveryAddInOverview,Add in Overview,在總覽中新增
+DiscoveryAssignedCount,{0} in community,社群內 {0} 個
+DiscoveryCheckedByRoot,Checked by Root,已由 Root 檢查
+DiscoveryCheckedOnListingCapitalized,CHECKED WHEN YOU TURN LISTING ON,開啟刊登時檢查
+DiscoveryDaysOld,{0} days old,{0} 天歷史
+DiscoveryEnableInProtection,Enable in Protection,在防護中啟用
+DiscoveryEyebrow,COMMUNITY DISCOVERY,社群探索
+DiscoveryFailedToLoad,Failed to load your discovery status. Please try again.,無法載入您的探索狀態。請再試一次。
+DiscoveryFailedToUpdate,Failed to update your discovery listing. Please try again.,無法更新您的探索刊登。請再試一次。
+DiscoveryHeadlineAccent,join the conversation.,加入對話。
+DiscoveryHeadlinePrimary,"Find your people,",找到你的人了，
+DiscoveryJoinTitle,Join this community,加入此社群
+DiscoveryListed,Your community is listed and can be found in Discovery.,您的社群已刊登，可以在探索中被找到。
+DiscoveryLockedJoinThrottle,Listed in Discovery: a join throttle is required. Unlist the community first to turn it off.,刊登於探索：必須啟用加入節流。請先取消刊登社群再關閉它。
+DiscoveryLockedOverview,"Listed in Discovery: a picture, banner, description, and category are required. Missing: {0}. Restore them or unlist the community first.",刊登於探索：需要圖片、橫幅、說明與類別。缺少項目：{0}。請先恢復這些項目或取消刊登社群。
+DiscoveryMetCapitalized,MET,已達成
+DiscoveryModerationBlocked,Discovery has been disabled for this community by Root moderation. Contact support if you believe this is a mistake.,此社群的探索功能已由 Root 管理員停用。若您認為這有誤，請聯絡支援。
+DiscoveryNeedAtLeastCores,Need at least {0} cores · {1} in community,至少需要 {0} 個核心 · 社群內有 {1} 個
+DiscoveryNeedAtLeastDays,Need at least {0} days · {1} days old,至少需要 {0} 天 · 已建立 {1} 天
+DiscoveryNeedAtLeastMembers,Need at least {0} members · {1} now,至少需要 {0} 位成員 · 目前有 {1} 位
+DiscoveryNeedsActionCapitalized,NEEDS ACTION,需要處理
+DiscoveryNotListedReady,"Your community isn't listed yet. Everything's ready, so you can turn on listing whenever you want it to appear in Discovery.",您的社群尚未刊登。一切已就緒，您隨時可以開啟刊登，讓它出現在探索中。
+DiscoveryNotListedRemaining,Your community is not listed. {0} requirements left before you can turn listing on.,您的社群尚未刊登。還有 {0} 個條件尚未滿足，才能開啟刊登。
+DiscoveryNotListedRemainingOne,Your community is not listed. 1 requirement left before you can turn listing on.,您的社群尚未刊登。還有 1 個條件尚未滿足，才能開啟刊登。
+DiscoveryPickInOverview,Pick in Overview,在總覽中挑選
+DiscoveryPreviewDescription,How your community will appear in Discovery,您的社群在探索中的顯示樣貌
+DiscoveryPreviewTitle,Preview,預覽
+DiscoveryReqAge,Community age,社群歷史
+DiscoveryReqBanner,Community banner,社群橫幅
+DiscoveryReqCategory,Category,類別
+DiscoveryReqCoreCount,Cores,核心
+DiscoveryReqDescription,Description,說明
+DiscoveryReqJoinThrottle,Join throttle,加入節流
+DiscoveryReqMemberCount,Members,成員
+DiscoveryReqOwnerEmail,Verified owner email,已驗證的擁有者電子郵件
+DiscoveryReqPicture,Community picture,社群圖片
+DiscoveryRequirementsProgress,{0} of {1} met,已達成 {0}／{1}
+DiscoveryRequirementsTitle,Requirements,條件
+DiscoverySettingsDescription,List your community publicly so anyone on Root can find and join it from Discovery. You can unlist at any time.,公開刊登您的社群，讓任何 Root 使用者都能從探索中找到並加入。您可以隨時取消刊登。
+DiscoverySettingsDescriptionRemaining,Complete the remaining requirements to turn listing on.,完成其餘條件即可開啟刊登。
+DiscoverySettingsTitle,Community Discovery,社群探索
+DiscoverySubheadline,"Browse public communities across gaming, music, tech and more. Every community here has chosen to be found.",瀏覽涵蓋遊戲、音樂、科技等領域的公開社群。這裡的每個社群都選擇被大家找到。
+DiscoveryUnavailable,Discovery is unavailable right now,探索目前無法使用
+DiscoveryUnavailableDescription,We couldn't reach the community directory. Please try again in a moment.,我們無法連上社群目錄。請稍候片刻再試。
+DiscoveryUploadInOverview,Upload in Overview,在總覽中上傳
+DiscoveryVerifyYourEmail,Verify your email,驗證您的電子郵件
+DiscoveryViewInDiscovery,View in Discovery,在探索中檢視
+Display,Display,顯示
+Done,Done,完成
+DontHaveAnAccountWithQuestionMark,Don't have an account?,還沒有帳號嗎？
+Draft,<Draft>,<草稿>
+DragImageToReposition,Drag to reposition,拖曳以重新定位
+EchoCancellation,Echo cancellation,回音消除
+EchoCancellationDescription,Prevents your speaker's audio from being picked up by your microphone,防止喇叭的聲音被麥克風收音
+EditChannel,Edit channel,編輯頻道
+EditChannelGroup,Edit channel group,編輯頻道群組
+EditFriendGroup,Edit friend group,編輯好友群組
+EditInviteLink,Edit invite link.,編輯邀請連結。
+EditKeybind,Edit keybind,編輯按鍵綁定
+EditMessage,Edit message,編輯訊息
+EditProfile,Edit Profile,編輯個人檔案
+EditProfileDescription,Change your own nickname for the community.,變更您在社群中的暱稱。
+Edited,(edited),（已編輯）
+EditingChannel,Editing channel,正在編輯頻道
+EditingFriendGroup,Editing friend group,正在編輯好友群組
+Email,Email,電子郵件
+EmailAlreadyExists,Email address is already registered,此電子郵件地址已註冊
+EmailHidden,[Email Hidden],［電子郵件已隱藏］
+EmailValidation,Verify your account,驗證您的帳號
+EmailValidationDescription,Enter the verification code sent to your email to verify your account.,輸入已傳送至您電子郵件的驗證碼，以驗證您的帳號。
+Emoji,Emoji,表情符號
+EmojiAutoConvertDescription,Type :P and Root will turn it into 😛,輸入 :P，Root 就會把它變成 😛
+EmojiAutoConvertTitle,Auto-convert emoticons to emoji,自動將表情圖示轉換為表情符號
+EmojiClickToLearnMore,Click to learn more,按一下以了解更多
+EmojiDefault,A default emoji,預設表情符號
+EmojiFromLabel,This emoji is from,此表情符號來自
+EmojiFromYourCommunity,This emoji is from one of your communities. Type its name in the chat bar to use it.,此表情符號來自您的其中一個社群。在聊天列中輸入它的名稱即可使用。
+EmojiImage,Image,圖片
+EmojiName,Emoji name,表情符號名稱
+EmojiNotAvailable,This emoji isn't available to you.,您無法使用此表情符號。
+EmojiSettings,Emoji settings,表情符號設定
+EmojiShortcode,Emoji Name,表情符號名稱
+EmojiShortcodePlaceholder,e.g. pepe_happy,例如 pepe_happy
+EmojiSlotsAvailable,{0} slots available,還有 {0} 個欄位
+Emojis,Emojis,表情符號
+EnableKeybindings,Enable keybinds,啟用按鍵綁定
+EnableKeybindingsDescription,"Turn all keybinds on or off. When disabled, keybind shortcuts won't trigger anything. Push to Talk is not affected.",開啟或關閉所有按鍵綁定。停用後，按鍵綁定捷徑不會觸發任何動作。按鍵發話不受影響。
+EnableStreamerMode,Enable Streamer mode,啟用串流模式
+EnableStreamerModeDescription,Hide sensitive information while streaming.,串流時隱藏敏感資訊。
+EnterCode,Enter code,輸入代碼
+EnterCommunityName,Enter community name,輸入社群名稱
+EnterGroupName,Enter group name,輸入群組名稱
+EnterRoleName,Enter role name,輸入身分組名稱
+EnterUsername,Enter username,輸入使用者名稱
+EnterVerificationCodes,Enter the verification codes sent to your current and new email addresses.,輸入已傳送至您目前與新電子郵件地址的驗證碼。
+EnterYourUniqueVerificationCode,Enter your unique verification code,輸入您的專屬驗證碼
+Everyone,Everyone,所有人
+Expand,Expand,展開
+ExpireAfter,Expire after,到期時間
+Expires,Expires,到期
+Explore,Explore,探索
+ExploreAppsAndBots,Explore apps & bots,探索 App 與機器人
+ExploreAppsAndBotsDescription,"Polls, notes, raid planners and more for your communities",投票、記事、團隊規劃工具等，為您的社群而設
+ExploreCommunities,Explore communities,探索社群
+ExploreCommunitiesDescription,"Find your people across gaming, music, tech and more",在遊戲、音樂、科技等領域找到你的人了
+ExploringTheDepthsOfHytaleXRoot,Exploring the depths of Hytale x Root,探索 Hytale × Root 的深度內容
+FailedLogin,Something went wrong. Check your username and password!,發生錯誤。請檢查您的使用者名稱與密碼！
+FailedRegister,"Something went wrong, please try again",發生錯誤，請再試一次
+FailedToAssignCore,Couldn't assign the core. Please try again.,無法指派核心。請再試一次。
+FailedToBanMember,Failed to ban member,無法封鎖成員
+FailedToBanMembers,Failed to ban members,無法封鎖成員
+FailedToBlockUser,Failed to block user,無法封鎖使用者
+FailedToCancelCoreMove,Couldn't cancel. Please try again.,無法取消。請再試一次。
+FailedToCancelPack,Failed to cancel pack,無法取消組合包
+FailedToCancelSubscription,Failed to cancel subscription,無法取消訂閱
+FailedToChangeEmail,Failed to change email,無法變更電子郵件
+FailedToCheckYourCores,Couldn't check your cores,無法檢查您的核心
+FailedToCompleteInstall,Couldn't complete the install. Please try again.,無法完成安裝。請再試一次。
+FailedToCreateBan,Failed to ban user,無法封鎖使用者
+FailedToCreateChannel,Failed to create channel,無法建立頻道
+FailedToCreateChannelGroup,Failed to create channel group,無法建立頻道群組
+FailedToCreateCommunity,Failed to create community,無法建立社群
+FailedToCreateGroup,Failed to create group,無法建立群組
+FailedToDelete,Failed to delete,無法刪除
+FailedToDeleteAccount,Something went wrong. Please ensure your password is correct.,發生錯誤。請確認您的密碼正確。
+FailedToDeleteChannel,Failed to delete channel,無法刪除頻道
+FailedToDeleteChannelGroup,Failed to delete channel group,無法刪除頻道群組
+FailedToDeleteCommunity,Failed to delete community,無法刪除社群
+FailedToDeleteCommunityLink,Failed to delete link,無法刪除連結
+FailedToDeleteEmoji,Failed to delete emoji,無法刪除表情符號
+FailedToDeleteFriendGroup,Failed to delete friend group,無法刪除好友群組
+FailedToDeleteMessage,Failed to delete message,無法刪除訊息
+FailedToDeleteNotifications,Failed to delete notifications,無法刪除通知
+FailedToDeleteRole,Failed to delete role,無法刪除身分組
+FailedToEditChannel,Failed to edit channel,無法編輯頻道
+FailedToEditFriendGroup,Failed to edit friend group,無法編輯好友群組
+FailedToImportDiscordTemplate,Failed to import Discord template. Please check the URL and try again.,無法匯入 Discord 範本。請檢查 URL 後再試。
+FailedToKickMember,Failed to kick member,無法踢出成員
+FailedToKickMembers,Failed to kick members,無法踢出成員
+FailedToLeaveCommunity,Failed to leave community,無法離開社群
+FailedToLeaveDirectMessage,Failed to leave direct message,無法離開私訊
+FailedToLoadCommunityCores,We couldn't load this community's cores. Please try again.,我們無法載入此社群的核心。請再試一次。
+FailedToLoadYourCores,We couldn't load your cores. Please try again.,我們無法載入您的核心。請再試一次。
+FailedToRemoveApp,Failed to remove app,無法移除 App
+FailedToRemoveFriend,Failed remove friend,無法移除好友
+FailedToRemovePaymentMethod,Failed to remove payment method,無法移除付款方式
+FailedToRenderText,Failed to render text,無法渲染文字
+FailedToReportMessage,Failed to report message,無法檢舉訊息
+FailedToReportUser,Failed to report user,無法檢舉使用者
+FailedToResetPassword,Failed to reset password,無法重設密碼
+FailedToResumePack,Failed to resume pack,無法恢復組合包
+FailedToRevokeBan,Failed to revoke ban,無法撤銷封鎖
+FailedToSaveChanges,Failed to save changes,無法儲存變更
+FailedToScheduleCoreMove,Couldn't schedule the move. Please try again.,無法排定搬移。請再試一次。
+FailedToSend,Failed to send,傳送失敗
+FailedToSendEmail,Failed to send email,無法傳送電子郵件
+FailedToSendRequest,Failed to send request,無法傳送要求
+FailedToSetDefaultPaymentMethod,Failed to update default payment method,無法更新預設付款方式
+FailedToSetPassword,Failed to set password.,無法設定密碼。
+FailedToSubmitTicket,Failed to submit ticket,無法提交工單
+FailedToTransferOwnership,Failed to transfer ownership - ensure your password is correct,無法轉移所有權——請確認您的密碼正確
+FailedToUnassignCore,Couldn't unassign the core. Please try again.,無法取消指派核心。請再試一次。
+FailedToUpdateApp,Failed to update app,無法更新 App
+FailedToUpdatePassword,Failed to update password,無法更新密碼
+FailedToUploadEmoji,Failed to upload emoji,無法上傳表情符號
+FailedToVerifyAccount,Failed to verify your account,無法驗證您的帳號
+Favorite,Favorite,我的最愛
+FavoriteCommunities,Favorite communities,我的最愛社群
+Favorites,Favorites,我的最愛
+FileTooLarge,File too large,檔案過大
+Files,Files,檔案
+Filter,Filter,篩選
+FilterYourCommunities,Filter your communities,篩選您的社群
+FindACommunity,Find a community,尋找社群
+FindAConversation,Find a conversation,尋找對話
+FindConversation,Find conversation,尋找對話
+FindFriends,Find friends,尋找好友
+FindNewFriends,Find new friends,結交新朋友
+FindYourCommunity,Find your community,尋找您的社群
+FindYourCommunityDescription,Browse public communities and join the ones that fit you.,瀏覽公開社群，並加入適合您的社群。
+FolderEmpty,Folder empty,資料夾為空
+FolderEmptyEmptyState,Add files to start organizing your documents,新增檔案以開始整理您的文件
+ForYou,For you,為您推薦
+ForgotUsername,Forgot your username?,忘記使用者名稱？
+ForgotUsernameInstructions,Enter the email address you used when you signed up. We’ll send you a message with your username.,輸入您註冊時使用的電子郵件地址。我們會傳送一封包含您使用者名稱的訊息給您。
+ForgotUsernameOrPassword,Forgot your username or password?,忘記使用者名稱或密碼？
+FoundAtTopRight,(found at the top right of your screen),（位於您螢幕的右上角）
+FriendRequests,Friend requests,好友邀請
+Friends,Friends,好友
+FriendsListEmpty,No friends found,找不到任何好友
+FriendsListEmptyDescription,Connect with others to expand your network,與其他人建立連結，擴展您的社交圈
+FriendshipPrivacy,Friendship privacy,好友邀請隱私
+FriendshipPrivacyDescription,Control who can send you friend requests.,控制誰能傳送好友邀請給您。
+From,from,來自
+FullControlChannel,Channel Full Control,頻道完整控制
+FullControlChannelDescription,Grants every channel-based permission.,授予所有頻道相關權限。
+FullControlDescription,Grants every permission. Overrules channel and channel-group permission overlays.,授予所有權限。可覆寫頻道與頻道群組的權限覆疊。
+GameMode,Game mode,遊戲模式
+GameModeDescription,Smoother video (720p @ 30fps),更流暢的視訊（720p @ 30fps）
+GameOverlay,Game overlay,遊戲覆疊
+GameOverlaySettings,Game overlay settings,遊戲覆疊設定
+General,General,一般
+GeneralCapitalized,GENERAL,一般
+GeneralPermissions,General permissions,一般權限
+GenerateInviteLink,Generate invite link,產生邀請連結
+GetACore,Get a core,取得核心
+GetStarted,Get Started,開始使用
+GetSudo,Get Sudo,取得 Sudo
+Gifs,Gifs,GIF
+Global,Global,全域
+GlobalKeybindingsUnavailable,Global Keybindings Unavailable,全域按鍵綁定無法使用
+GlobalKeybindingsUnavailableDescription,Global keybindings (like Push to Talk) require accessibility permissions on macOS. Open System Preferences > Privacy & Security > Accessibility and enable Root to use global keybindings.,全域按鍵綁定（例如按鍵發話）在 macOS 上需要輔助使用權限。請開啟「系統設定」＞「隱私與安全性」＞「輔助使用」，並允許 Root 使用全域按鍵綁定。
+GoBack,Go back,返回
+GotIt,Got it,知道了
+Great,Great!,太好了！
+GroupName,Group name,群組名稱
+Harassment,Harassment,騷擾
+HateSpeech,Hate speech,仇恨言論
+Help,Help,說明
+HelpAndSupport,Help & Support,說明與支援
+HowDoIGetOne,HOW DO I GET ONE?,我怎麼取得一個？
+I,I,我
+Identity,Identity,身分
+Impersonation,Impersonation,冒充他人
+ImportFromDiscord,Import from Discord,從 Discord 匯入
+ImportTemplate,Import,匯入
+ImportingTemplate,Importing template...,正在匯入範本...
+InputDevice,Input device,輸入裝置
+InputMode,INPUT MODE,輸入模式
+InputVolume,Input volume,輸入音量
+Install,Install,安裝
+InstallBotDescription,**{0}** will be installed in this community with the permissions declared in its manifest.,**{0}** 將以此清單宣告的權限安裝在此社群中。
+InstallBotTitle,Install bot,安裝機器人
+InstallingBot,Installing bot,正在安裝機器人
+InsufficientPermissions,Insufficient permissions,權限不足
+InsufficientPermissionsForMessaging,Insufficient permissions to send messages here,權限不足，無法在此傳送訊息
+Interface,Interface,介面
+InvalidAccessToken,Invalid access token,無效的存取權杖
+InvalidEmail,Invalid email,無效的電子郵件
+InvalidUsername,Invalid username,無效的使用者名稱
+Invite,Invite,邀請
+InviteAcceptedCommunityLog,**{0}** joined the community.,**{0}** 加入了社群。
+InviteAcceptedCommunityLogDetail,Accepted the invite from **{0}**.,接受了來自 **{0}** 的邀請。
+InviteCode,Invite code,邀請代碼
+InviteCreatedCommunityLog,**{0}** invited **{1}** to the community.,**{0}** 邀請了 **{1}** 加入社群。
+InviteLink,Invite Link,邀請連結
+InviteLinkHidden,[Link Hidden],［連結已隱藏］
+InviteLinkSettings,Invite link settings,邀請連結設定
+InviteMembers,Invite members,邀請成員
+InviteOthers,Invite others ,邀請其他人
+InviteRejectedCommunityLog,**{0}** rejected a community invite from **{1}**.,**{0}** 婉拒了來自 **{1}** 的社群邀請。
+InviteRevokedActionLog,**{0}** revoked **{1}'s** community invite.,**{0}** 撤銷了 **{1}** 的社群邀請。
+InviteToCommunity,Invite to community,邀請加入社群
+InviteUsers,Invite Users,邀請使用者
+InviteUsersDescription,Allows members to invite new users to the community,允許成員邀請新使用者加入社群
+InvitedBy,invited by,受邀者
+InvitedByColon,Invited by:,受邀者：
+Inviter,Inviter,邀請者
+Invites,Invites,邀請
+Italic,Italic,斜體
+Join,Join,加入
+JoinCall,Join call,加入通話
+JoinCommunity,Join community,加入社群
+JoinCommunityForHelp,Join our support community to ask questions and get answers from other users.,加入我們的支援社群，向其他使用者發問並獲得解答。
+JoinOfficialCommunities,Join our official communities,加入我們的官方社群
+JoinOurOfficialCommunities,Join our official communities,加入我們的官方社群
+JoinTheConversationOnRoot,Join the conversation on Root,加入 Root 上的對話
+JoinThrottle,Join throttle,加入節流
+JoinThrottleCustom,Custom settings,自訂設定
+JoinThrottleDescription,Limit how many users can join your community during high traffic periods. This helps protect against bot attacks and raids.,在高流量期間限制能加入您社群的使用者數量。這有助於防範機器人攻擊與刷頻。
+JoinThrottleLarge,Large community,大型社群
+JoinThrottleLargeDescription,100 joins per 10 minutes - Best for communities expecting high growth,每 10 分鐘 100 人加入——適合預期快速成長的社群
+JoinThrottleMedium,Medium community,中型社群
+JoinThrottleMediumDescription,50 joins per 10 minutes - Balanced protection for most communities,每 10 分鐘 50 人加入——適合大多數社群的平均防護
+JoinThrottlePreset,Select a throttle level,選取節流等級
+JoinThrottleRefillCount,Joins allowed,允許加入次數
+JoinThrottleRefillCountDescription,Maximum number of joins allowed per time window,每個時間窗口內允許的最大加入次數
+JoinThrottleSmall,Small community,小型社群
+JoinThrottleSmallDescription,20 joins per 10 minutes - Good for smaller or private communities,每 10 分鐘 20 人加入——適合較小或私人社群
+JoinThrottleStrict,Strict,嚴格
+JoinThrottleStrictDescription,10 joins per 10 minutes - Maximum protection during attacks,每 10 分鐘 10 人加入——攻擊期間的最大防護
+JoinThrottleWindow,Time window (minutes),時間窗口（分鐘）
+JoinThrottleWindowDescription,Time period in minutes for the join limit,加入限制的時間窗口（以分鐘為單位）
+Joined,Joined,已加入
+JoinedRoot,Joined Root · {0},加入 Root · {0}
+JumpToPresent,Jump To Present,跳至最新
+JumpedTo,Jumped to {0},已跳至 {0}
+KeepEditing,Keep editing,繼續編輯
+KeepPassword,Keep Password,保留密碼
+KeepSubscription,Keep subscription,保留訂閱
+KeybindConflict,Keybind conflict,按鍵綁定衝突
+KeybindConflictDetails,"This keybind is currently assigned to ""{0}"". Do you want to replace it?",此按鍵綁定目前指派給「{0}」。要取代它嗎？
+KeybindConflictMessage,"The keybind ""{0}"" is already in use.",按鍵綁定「{0}」已被使用。
+Keybindings,Keybindings,按鍵綁定
+KeybindingsDescription,Customize keyboard shortcuts for navigating and using Root. Changes are saved automatically.,自訂在 Root 中導覽與使用的鍵盤捷徑。變更會自動儲存。
+KeyboardShortcuts,Keyboard shortcuts,鍵盤捷徑
+Kick,Kick,踢出
+KickConfirmationMessage,Are you sure you want to kick **{0}**?,確定要踢出 **{0}** 嗎？
+KickCreatedCommunityLog,**{0}** kicked **{1}** from the community.,**{0}** 將 **{1}** 踢出了社群。
+KickFromVoiceChannel,Kick From Voice Channel,從語音頻道踢出
+KickMember,Kick member,踢出成員
+KickMemberPermission,Kick Member,踢出成員
+KickMembers,Kick Members,踢出成員
+KickMembersConfirmationMessage,Are you sure you want to kick **{0}** members?,確定要踢出 **{0}** 位成員嗎？
+KickVoiceMember,Kick Voice Member,踢出語音成員
+KickVoiceMemberDescription,Remove a member from a voice channel.,將成員從語音頻道移除。
+Kicked,kicked,已踢出
+KickingMember,Kicking member,正在踢出成員
+KickingMembers,Kicking members,正在踢出成員
+LearnHowToBuildBotsAndApps,Learn how to build bots and apps,了解如何建立機器人與 App
+LearnMore,Start building,開始建立
+LearnToBuildBotsAndApps,Learn how to build bots and apps,了解如何建立機器人與 App
+Leave,Leave,離開
+LeaveCommunity,Leave community,離開社群
+LeaveConfirmationMessage,Are you sure you want to leave **{0}**?,確定要離開 **{0}** 嗎？
+LeaveDirectMessage,Leave direct message,離開私訊
+LeaveDirectMessageConfirmation,Are you sure you want to leave this direct message? Your conversation will be deleted.,確定要離開此私訊嗎？您的對話內容將被刪除。
+LeavingAtNextRenewal,Leaving at the next renewal,將於下次續訂時離開
+LeavingCommunity,Leaving  community,正在離開社群
+LeavingDirectMessage,Leaving direct message,正在離開私訊
+LeavingOn,"Leaving on {0:MMM d, yyyy}","將於 {0:MMM d, yyyy} 離開"
+LeavingRoot,Leaving Root,正在離開 Root
+LeavingRootDescription,This link is taking you to the following website,此連結將帶您前往以下網站
+LevelNumber,LEVEL {0},等級 {0}
+LevelUnlocks,{0} UNLOCKS,{0} 解鎖
+LevelUpTheCommunity,Level up the community,讓社群升級
+Light,Light,淺色
+ListInDiscovery,List in Discovery,刊登於探索
+Live,LIVE,直播中
+LoadMore,Load more,載入更多
+Loading,Loading...,載入中...
+Locked,Locked,已鎖定
+LoggingIn,Logging in,正在登入
+Login,Login,登入
+MakeForumChannelsPublic,Make Forum Channels Public,將論壇頻道設為公開
+Manage,Manage,管理
+ManageAccess,Manage access,管理存取
+ManageActionLogs,Manage Action Logs,管理動作紀錄
+ManageAppDescription,"Create, update, and delete apps. View the community's cores information.",建立、更新與刪除 App。檢視社群的核心資訊。
+ManageApps,Manage Apps,管理 App
+ManageBans,Manage Bans,管理封鎖
+ManageBansDescription,Ban and unban community members. View and edit current bans.,封鎖與解除封鎖社群成員。檢視與編輯目前的封鎖。
+ManageChannelVisibility,Manage Channel Visibility,管理頻道可見度
+ManageChannelVisibilityDescription,Set whether a channel is visible outside of the community. Only applies to forum channels.,設定頻道是否在社群外部可見。僅適用於論壇頻道。
+ManageChannels,Manage Channels,管理頻道
+ManageCommunity,Manage Community,管理社群
+ManageCommunityDescription,"Update the community's name, description, color, image, and system-messages channel. View the community's cores information.",更新社群的名稱、說明、顏色、圖片與系統訊息頻道。檢視社群的核心資訊。
+ManageEmojis,Manage Emojis,管理表情符號
+ManageEmojisDescription,"Add, edit, and remove the community's custom emojis.",新增、編輯與移除社群的自訂表情符號。
+ManageFiles,Manage Files,管理檔案
+ManageFilesDescription,"View, create, and delete files and directories. Update file and directory names.",檢視、建立與刪除檔案與目錄。更新檔案與目錄名稱。
+ManageInvites,Manage Invites,管理邀請
+ManageInvitesDescription,"View, create, and revoke community invitations. Claim and manage the community's vanity invite link.",檢視、建立與撤銷社群邀請。認領並管理社群的專屬邀請連結。
+ManageMessages,Manage Messages,管理訊息
+ManagePinnedMessages,Manage Pinned Messages,管理釘選訊息
+ManagePinnedMessagesDescription,Pin or unpin messages.,釘選或取消釘選訊息。
+ManageProfiles,Manage Profiles,管理個人檔案
+ManageProfilesDescription,Change other members' nicknames.,變更其他成員的暱稱。
+ManageRoles,Manage Roles,管理身分組
+ManageRolesDescription,"Create, update, delete, and assign roles.",建立、更新、刪除與指派身分組。
+ManageSubscription,Manage subscription,管理訂閱
+ManageWhereYourCoresAssigned,Manage where your cores are assigned.,管理您的核心指派位置。
+ManagementCapitalized,MANAGEMENT,管理
+ManagementPermissions,Management permissions,管理權限
+MarkAllAsViewed,Mark all as viewed,全部標為已檢視
+MarkAllChannelsAsRead,Mark all channels as read,將所有頻道標為已讀
+MarkAsRead,Mark as read,標為已讀
+MarkChannelAsRead,Mark channel as read,將頻道標為已讀
+MarkCommunityAsRead,Mark community as read,將社群標為已讀
+MaxChannelImageSizeMessage,The maximum channel image size is {0}.,頻道圖片大小上限為 {0}。
+MaxCommunityImageSize,Max size: 1MB,大小上限：1MB
+MaxCommunityImageSizeMessage,The maximum community image size is {0}.,社群圖片大小上限為 {0}。
+MaxFileSizeMessage,The maximum file size is {0}.,檔案大小上限為 {0}。
+MaxNumberOfUses,Max number of uses,最大使用次數
+MaxProfileImageSize,The maximum profile image size is {0}.,個人檔案圖片大小上限為 {0}。
+MediaStreaming,Media streaming,媒體串流
+MemberFilterComingSoon,Member filter - coming soon!,成員篩選——即將推出！
+MemberInvitesEmpty,No active invites,沒有有效邀請
+MemberInvitesEmptyDescription,There are currently no active invites in the community,社群中目前沒有有效邀請
+MemberJoinedCommunityLog,**{0}** joined the community from **{1}'s** invite.,**{0}** 透過 **{1}** 的邀請加入了社群。
+MemberJoinedFromDiscoveryCommunityLog,**{0}** joined the community from community discovery.,**{0}** 透過社群探索加入了社群。
+MemberJoinedNoInviteCommunityLog,**{0}** joined the community.,**{0}** 加入了社群。
+MemberLeftCommunityLog,**{0}** left the community.,**{0}** 離開了社群。
+Members,Members,成員
+MembersCapitalized,MEMBERS,成員
+MembersCount,{0} members,{0} 位成員
+MembersEmpty,No members found,找不到任何成員
+MembersEmptyDescription,There were no members found matching your search term,找不到符合您搜尋條件的成員
+MembersSelectedCount,{0} of {1} selected,已選取 {0}／{1}
+Mention,Mention,提及
+MentionAll,All,全部
+MentionAllDescription,Mention all users,提及所有使用者
+MentionHere,Here,這裡
+MentionHereDescription,Mention users that are currently online,提及目前線上的使用者
+MentionSender,Send a mention notification to the sender,向傳送者傳送提及通知
+Mentions,Mentions,提及
+Message,Message,訊息
+MessageDeleted,Message deleted,訊息已刪除
+MessageDeletedCommunityLog,**{0}** deleted a message in **#{1}**.,**{0}** 刪除了 **#{1}** 中的一則訊息。
+MessageDeletedContentCommunityLogDetail,"**Message Content:**
+      
+{0}
+    ","**訊息內容：**
+      
+{0}
+    "
+MessageEditedCommunityLog,**{0}** edited a message in **#{1}**.,**{0}** 編輯了 **#{1}** 中的一則訊息。
+MessageEditedNewCommunityLogDetail,"**Updated Message Content:**
+      
+{0}
+    ","**更新後的訊息內容：**
+      
+{0}
+    "
+MessageEditedOriginalCommunityLogDetail,"**Original Message Content:**
+      
+{0}
+    ","**原始訊息內容：**
+      
+{0}
+    "
+MessagePinnedCommunityLog,**{0}** pinned a message in **#{1}**.,**{0}** 在 **#{1}** 中釘選了一則訊息。
+MessagePinnedContentCommunityLogDetail,"**Message Content:**
+      
+{0}
+    ","**訊息內容：**
+      
+{0}
+    "
+MessagePinnedSystemMessage,{0} pinned {1},{0} 釘選了 {1}
+MessagePreviewHidden,Hidden in streamer mode,已在串流模式中隱藏
+MessageSettings,Message settings,訊息設定
+MessageUnavailable,Message unavailable,訊息無法使用
+MessageUnpinnedCommunityLog,**{0}** unpinned a message in **#{1}**.,**{0}** 在 **#{1}** 中取消釘選了一則訊息。
+MessageUnpinnedContentCommunityLogDetail,"**Message Content:**
+      
+{0}
+    ","**訊息內容：**
+      
+{0}
+    "
+MessageUnpinnedSystemMessage,{0} unpinned {1},{0} 取消釘選了 {1}
+Messages,Messages,訊息
+Messaging,Messaging,訊息傳送
+MicrophoneConfiguration,MICROPHONE CONFIGURATION,麥克風設定
+MinimumCommunityImageDimensions,Minimum dimensions 384x384,最小尺寸 384x384
+Misinformation,Misinformation,不實資訊
+ModerationCapitalized,MODERATION,管理
+ModifyBans,Modify bans,修改封鎖
+ModifyBansDescription,Grants access to the community bans tab,授予社群封鎖分頁的存取權
+ModifyChannel,Modify channel,修改頻道
+ModifyChannelDescription,Allows members to modify settings of channels with equal or lower level,允許成員修改等級相同或較低頻道的設定
+ModifyInvites,Modify invites,修改邀請
+ModifyInvitesDescription,Grants access to the community invites tab,授予社群邀請分頁的存取權
+ModifyLogs,Modify logs,修改紀錄
+ModifyLogsDescription,Grants access to the community logs tab,授予社群紀錄分頁的存取權
+ModifyMembers,Modify members,修改成員
+ModifyMembersDescription,Grants access to the community members tab,授予社群成員分頁的存取權
+ModifyOverview,Modify overview,修改總覽
+ModifyOverviewDescription,Grants access to the community overview tab,授予社群總覽分頁的存取權
+ModifyRoles,Modify roles,修改身分組
+ModifyRolesDescription,Grants access to the community roles tab,授予社群身分組分頁的存取權
+MoreOptions,More options,更多選項
+Move,Move,搬移
+MoveACore,Move a core,搬移核心
+MoveCancelled,Move cancelled,搬移已取消
+MoveCore,Move core,搬移核心
+MoveCoreConfirmationMessage,Your core is powering another community. Move it to **{0}**? The move takes effect at the start of the core's next billing cycle.,您的核心正在為另一個社群供電。要將它搬到 **{0}** 嗎？搬移會於核心下一個計費週期開始時生效。
+MoveCoreFromConfirmationMessage,Your core is powering **{0}**. Move it to **{1}**? The move takes effect at the start of the core's next billing cycle.,您的核心正在為 **{0}** 供電。要將它搬到 **{1}** 嗎？搬移會於核心下一個計費週期開始時生效。
+MoveCoreHere,Move core here,將核心搬到這裡
+MoveCorePickerSubtitle,Choose which core moves to {0}. The move takes effect at the start of the core's next billing cycle.,選擇哪個核心搬到 {0}。搬移會於核心下一個計費週期開始時生效。
+MoveCorePickerSubtitlePrefix,Choose which core moves to,選擇哪個核心搬到
+MoveCorePickerSubtitleSuffix,. The move takes effect at the start of the core's next billing cycle.,。搬移會於核心下一個計費週期開始時生效。
+MoveUser,Move user,搬移使用者
+MoveUserDescription,Allows members to move users with lower level,允許成員搬移等級較低的使用者
+MoveVoiceMember,Move Voice Member,搬移語音成員
+MoveVoiceMemberDescription,Move a member from one voice channel to a different voice channel.,將成員從一個語音頻道搬到另一個語音頻道。
+MovingHere,Moving here,正在搬到這裡
+MovingHereCapitalized,MOVING HERE,正在搬到這裡
+MovingTo,Moving to {0} {1},正在搬到 {0} {1}
+MovingToShort,Moving to {0},正在搬到 {0}
+Mute,Mute,靜音
+MuteMicrophones,Mute Microphones,靜音麥克風
+MuteMicrophonesDescription,Prevent a member from talking in voice channels.,防止成員在語音頻道中說話。
+MuteSpeakers,Mute Speakers,靜音喇叭
+MuteSpeakersDescription,Prevent a member from hearing audio in voice channels.,防止成員在語音頻道中聽到音訊。
+MuteUser,Mute user,靜音使用者
+MuteUserDescription,Allows members to mute users with lower level,允許成員靜音等級較低的使用者
+MuteUsers,Mute Users,靜音使用者
+MyCommunities,My communities,我的社群
+Name,Name,名稱
+NamePasskeyDescription,"Give this passkey a name so you can recognize it later (for example, the device you're creating it on).",為此 Passkey 命名，方便日後辨識（例如您建立它的裝置名稱）。
+NamePasskeyTitle,Name your passkey,為您的 Passkey 命名
+NativeNotificationsDescription,Use the operating system's native notification center instead of Root's custom notifications,使用作業系統的原生通知中心，而不是 Root 的自訂通知
+NativeNotificationsTitle,Native notifications,原生通知
+Navigation,Navigation,導覽
+NeedQuickHelp,Need quick help?,需要快速協助？
+NestedChannelVisibilityAllCaps,NESTED CHANNEL VISIBILITY,巢狀頻道可見度
+NestedChannelVisibilityDescription,Roles and users in this list can see the nested channels,此清單中的身分組與使用者可以檢視巢狀頻道
+New,New,新增
+NewEmail,New email,新電子郵件
+NewEmailCode,New email code,新電子郵件驗證碼
+NewMessage,New message,新訊息
+NewMessages,{0} new messages,{0} 則新訊息
+NewPassword,New password,新密碼
+NewTab,New tab,新分頁
+NextLevel,Next level,下一個等級
+NoAppsFound,No apps found,找不到任何 App
+NoBotsFound,No bots found,找不到任何機器人
+NoCommunitiesFound,No communities found,找不到任何社群
+NoCoresAvailableToAssign,No cores available to assign,沒有可指派的可用核心
+NoCoresYet,No cores yet,還沒有核心
+NoLimit,No limit,無限制
+NoPasskeysRegistered,No passkeys registered yet.,尚未註冊任何 Passkey。
+NoPinnedMessages,No pinned messages,沒有釘選訊息
+NoPinnedMessagesEmptyState,Pin important messages for quick access,釘選重要訊息以便快速存取
+NoRolesAssigned,No roles assigned,未指派任何身分組
+NoiseSuppression,NOISE SUPPRESSION,噪音抑制
+NoiseSuppressionStrength,Noise suppression strength,噪音抑制強度
+NoiseSuppressionStrengthDescription,Controls how aggressively background noise is filtered from your microphone,控制過濾麥克風背景噪音的強度
+Notes,Notes,記事
+NotesHiddenStreamerMode,Notes hidden in streamer mode,記事已在串流模式中隱藏
+NotificationSettings,Notification settings,通知設定
+NotificationSoundsDescription,"Play a sound for new mentions, DMs, and activity.",為新的提及、私訊與動態播放音效。
+NotificationSoundsTitle,Notification sounds,通知音效
+Notifications,Notifications,通知
+NotificationsEmpty,You have no notifications,您沒有任何通知
+NotificationsEmptyDescription,"Nothing to see here, but we'll let you know when to check back",這裡沒有東西，但有新動態時我們會通知您
+OK,OK,確定
+Objectionable,Objectionable,不當內容
+Offline,Offline,離線
+OnDate,"on {0:MMM d, yyyy}","於 {0:MMM d, yyyy}"
+OnboardingBetaDescription,"Some features are still evolving, and you may run into the occasional bug. This phase is all about learning in the open. Your feedback helps shape what Root becomes.",部分功能仍在發展中，您可能會遇到偶發錯誤。這個階段的重點是公開學習。您的回饋有助於塑造 Root 的未來。
+OnboardingInBeta,You're in. Root is now in Public Beta.,您進來了。Root 現在處於公開 Beta 階段。
+OneAppBotSlot,1 App/Bot Slot,1 個 App／機器人欄位
+OneAttachment,1 attachment,1 個附件
+OneCoreAvailableToAssign,You have 1 core available to assign,您有 1 個可指派的可用核心
+OneOfYourCores,1 of your cores,您的其中 1 個核心
+OneTimeCodeInstructions,We've sent a one-time code to {0}. Enter it below to verify your identity and set a new password.,我們已將一次性代碼傳送至 {0}。請在下方輸入它以驗證您的身分並設定新密碼。
+OneTimePurchase,One-time purchase,單次購買
+Online,Online,線上
+Open,Open,開啟
+OpenCommunity,Open community,開啟社群
+OpenInBrowser,Open in Browser,在瀏覽器中開啟
+OpenInNewWindow,Open in new window,在新視窗中開啟
+OpenLink,Open link,開啟連結
+OpenNewTab,New tab,新分頁
+OpenSettings,Open settings,開啟設定
+Options,Options,選項
+OrJoinACommunityWith,Or join a community with,或使用以下方式加入社群
+OrLowercase,or,或
+Other,Other,其他
+OutputDevice,Output device,輸出裝置
+OutputVolume,Output volume,輸出音量
+OverlayAppearance,Appearance,外觀
+OverlayMasterDescription,Show overlay widgets over fullscreen games and enable interactive mode,在全螢幕遊戲上顯示覆疊小工具，並啟用互動模式
+OverlayMasterTitle,Enable game overlay,啟用遊戲覆疊
+OverlayOnlyShowSpeaking,Only show when speaking,僅在說話時顯示
+OverlayOnlyShowSpeakingDescription,Hide the overlay background and only show users when they are speaking,隱藏覆疊背景，僅在使用者說話時顯示他們
+OverlayOpacity,Opacity,不透明度
+OverlayOpacityDescription,Adjust the transparency of the overlay elements,調整覆疊元素的不透明度
+OverlayPosition,Overlay position,覆疊位置
+OverlayPositionBottomLeft,Bottom left,左下
+OverlayPositionBottomRight,Bottom right,右下
+OverlayPositionTopLeft,Top left,左上
+OverlayPositionTopRight,Top right,右上
+OverlayScale,Scale,縮放
+OverlayScaleDescription,Adjust the size of the overlay elements,調整覆疊元素的大小
+OverlayShowAvatars,Show avatars,顯示頭像
+OverlayShowAvatarsDescription,Display user profile pictures in the voice overlay,在語音覆疊中顯示使用者個人圖片
+OverlayShowNames,Show names,顯示名稱
+OverlayShowNamesDescription,Display usernames in the voice overlay,在語音覆疊中顯示使用者名稱
+Overview,Overview,總覽
+PackCancelled,Pack cancelled,組合包已取消
+PackResumed,Pack resumed,組合包已恢復
+PasskeyAddedSuccessfully,Passkey added successfully.,Passkey 已成功新增。
+PasskeyDeletedSuccessfully,Passkey deleted.,Passkey 已刪除。
+PasskeyName,Name,名稱
+PasskeySettings,Passkey settings,Passkey 設定
+PasskeySettingsDescription,"Passkeys are a safer, faster way to sign in. Instead of typing a password, you unlock your account with your fingerprint, face, or the PIN you already use on this device.",Passkey 是更安全、更快速的登入方式。您不需要輸入密碼，而是用指紋、臉部或這部裝置上已有的 PIN 來解鎖帳號。
+PasskeyVerification,Passkey Verification,Passkey 驗證
+PasskeyVerificationDescription,Use your passkey to verify your identity.,使用您的 Passkey 驗證身分。
+PasskeyVerificationFailed,Passkey verification failed.,Passkey 驗證失敗。
+Passkeys,Passkeys,Passkey
+Password,Password,密碼
+PasswordCharacter,*,*
+PasswordRequiredToTransferOwnership,Your password is required to transfer community ownership.,轉移社群所有權需要您的密碼。
+PasswordResetInstructions,Enter the email you used to sign up. We'll send a verification code to help you reset your password.,輸入您註冊時使用的電子郵件。我們會傳送驗證碼來協助您重設密碼。
+PasswordSetSuccessfully,Password set successfully.,密碼已成功設定。
+PasswordsDoNotMatch,Passwords do not match.,密碼不相符。
+PaymentMethodRemoved,Payment method removed,付款方式已移除
+PaymentMethods,Payment methods,付款方式
+PaymentMethodsDescription,Your payment methods are encrypted and stored with a secure payment processing service.,您的付款方式已加密，並儲存在安全的付款處理服務中。
+PaymentStatusCanceled,Canceled,已取消
+PaymentStatusFailed,Failed,失敗
+PaymentStatusPaid,Paid,已付款
+PaymentStatusPending,Pending,處理中
+PaymentStatusRefunded,Refunded,已退款
+PaymentStatusUnknown,Unknown,未知
+PaymentTypeOneTime,One-time,單次
+PaymentTypeSubscription,Subscription,訂閱
+PerkAppBotSlot,+1 App/Bot Slot,+1 個 App／機器人欄位
+PerkCommunityDiscovery,Community Discovery listing,社群探索刊登
+PerkVanityInviteLink,Vanity invite link,專屬邀請連結
+Permissions,Permissions,權限
+PermissionsEmpty,No permissions found,找不到任何權限
+PermissionsEmptyDescription,You can search on the permission name or description,您可以搜尋權限名稱或說明
+PickScreen,Pick screen,選取螢幕
+PickScreenHint,"Choose your stream settings, then pick the screen or window to share.",選擇您的串流設定，然後選取要分享的螢幕或視窗。
+PinMessage,Pin message,釘選訊息
+PinToTab,Pin to tab,釘選至分頁
+Pinned,(pinned),（已釘選）
+PinnedMessages,Pinned messages,釘選訊息
+PinnedMessagesCapitalized,PINNED MESSAGES,釘選訊息
+PlaceholderChannelName,Channel1,頻道 1
+PlaceholderCommunityMemberInviteText,Daerccoan invited you to a community,Daerccoan 邀請您加入社群
+PlaceholderCommunityName,Root,Root
+PlaceholderCount,1,1
+PlaceholderDate,12/12/12,12/12/12
+PlaceholderFriendRequestText,Daerccoan sent you a friend request,Daerccoan 向您傳送了好友邀請
+PlaceholderFriendResponseText,Daerccoan accepted your friend request,Daerccoan 接受了您的好友邀請
+PlaceholderGroupName,Moderation,管理
+PlaceholderMediumLengthText,"Lorem ipsum dolor sit amet, consectetur adipiscing elit sed","Lorem ipsum dolor sit amet, consectetur adipiscing elit sed"
+PlaceholderMessageTime,1 minute ago,1 分鐘前
+PlaceholderRoleName,Admin,管理員
+PlaceholderShortLengthText,Lorem ipsum,Lorem ipsum
+PlaceholderUsername,Daerccoan,Daerccoan
+PlaceholderVoiceChannel,Voice Channel 1,語音頻道 1
+PopoutCurrentTab,Pop out tab,彈出分頁
+PostInstallSetupSubtitleApp,"Just like a user, an app gets its permissions from roles. Assign roles to give it exactly the access you want.",就像使用者一樣，App 從身分組取得權限。指派身分組，即可精確授予您想要的存取範圍。
+PostInstallSetupSubtitleBot,"Just like a user, a bot gets its permissions from roles. Assign roles to give it exactly the access you want.",就像使用者一樣，機器人從身分組取得權限。指派身分組，即可精確授予您想要的存取範圍。
+PostInstallSetupTitle,Assign roles to {0},為 {0} 指派身分組
+Preview,Preview,預覽
+Privacy,Privacy,隱私
+PrivacyAnyone,Anyone,所有人
+PrivacyBlockedActionDescription,This user's privacy settings prevent this action. They may have restricted who can send them requests.,此使用者的隱私設定阻止了此動作。他們可能限制了誰能向他們傳送邀請。
+PrivacyBlockedActionTitle,Action not allowed,不允許此動作
+PrivacyFriendsOnly,Friends,好友
+PrivacyNobody,Nobody,無人
+PrivacyPolicy,Privacy Policy,隱私權政策
+PrivacySettings,Privacy settings,隱私設定
+PrivacySharedConnection,Shared connection,共同連結
+Processing,Processing,處理中
+Productivity,Productivity,生產力
+Profile,Profile,個人檔案
+ProfileCapitalized,PROFILE,個人檔案
+ProfileImage,Profile image,個人檔案圖片
+ProfilePicture,Profile picture,個人頭像
+Protection,Protection,防護
+ProtectionSettings,Protection settings,防護設定
+PublicBetaMessage,You're in. Root is now in Public Beta.,您進來了。Root 現在處於公開 Beta 階段。
+PushToTalk,Push to talk,按鍵發話
+Quit,Quit,結束
+RateLimited,Slow down,請放慢速度
+RateLimitedMessage,Too many attempts. Please wait a few minutes and try again.,嘗試次數過多。請稍候幾分鐘再試。
+RecoverUsername,Recover username,找回使用者名稱
+Register,Register,註冊
+Registering,Registering,正在註冊
+ReleaseDelay,Release delay,放開延遲
+RemovalCancelled,Removal cancelled,移除已取消
+Remove,Remove,移除
+RemoveApp,Remove App,移除 App
+RemoveAppConfirmationMessage,Are you sure you want to remove **{0}**? This cannot be undone.,確定要移除 **{0}** 嗎？此動作無法復原。
+RemoveFavorite,Remove favorite,移除我的最愛
+RemoveFriend,Remove friend,移除好友
+RemoveFriendConfirmationMessage,Are you sure you want to remove **{0}** as a friend?,確定要移除好友 **{0}** 嗎？
+RemoveFromVoiceCall,Remove from voice call,從語音通話中移除
+RemoveMembers,Remove Members,移除成員
+RemoveMembersDescription,Remove members from the community.,將成員從社群移除。
+RemovePassword,Remove Password,移除密碼
+RemovePasswordConfirmationMessage,Your passkey is set up. Would you like to remove your password for enhanced security? You can always sign in with your passkey or recovery codes.,您的 Passkey 已設定。要移除密碼以提升安全性嗎？您隨時可以透過 Passkey 或恢復代碼登入。
+RemovePasswordRowDescription,"Since you have a passkey set up, you can remove your password for added security. You can always set one again later.",由於您已設定 Passkey，可以移除密碼以提升安全性。您之後隨時可以重新設定。
+RemovePasswordTitle,Remove Password,移除密碼
+RemovePaymentMethodConfirmationMessage,Are you sure you want to remove the card ending in **{0}**?,確定要移除尾號為 **{0}** 的卡片嗎？
+RemovePaymentMethodTitle,Remove payment method,移除付款方式
+RemovingApp,Removing app,正在移除 App
+RemovingFriend,Removing friend,正在移除好友
+RemovingPaymentMethod,Removing payment method,正在移除付款方式
+Rename,Rename,重新命名
+RenamePasskey,Rename,重新命名
+Renews,"Renews {0:MMM d, yyyy}","於 {0:MMM d, yyyy} 續訂"
+Replace,Replace,取代
+Reply,Reply,回覆
+ReplyingTo,Replying to,正在回覆
+Report,Report,檢舉
+ReportMessage,Report message,檢舉訊息
+ReportMessageDescription,Select a reason for reporting this message,選擇檢舉此訊息的原因
+ReportUser,Report user,檢舉使用者
+ReportUserContentDescription,Select a reason for reporting this user,選擇檢舉此使用者的原因
+ReportUserProfileDescription,Report a part of their profile,檢舉其個人檔案的一部分
+ReportingMessage,Reporting message,正在檢舉訊息
+ReportingUser,Reporting user,正在檢舉使用者
+Request,Request,要求
+RequestSent,Sent,已傳送
+RequireVerifiedUserCommunityInviteDescription,Only allow community invites from users with a verified email address.,僅允許電子郵件地址已驗證的使用者傳送社群邀請。
+RequireVerifiedUserDirectMessageDescription,Only allow direct messages from users with a verified email address.,僅允許電子郵件地址已驗證的使用者傳送私訊。
+RequireVerifiedUserFriendshipDescription,Only allow friend requests from users with a verified email address.,僅允許電子郵件地址已驗證的使用者傳送好友邀請。
+RequireVerifiedUserTitle,Require verified users,僅限已驗證使用者
+ResendEmail,Resend email,重新傳送電子郵件
+ResendVerificationCode,Didn't receive a code? Resend,沒收到代碼？重新傳送
+ResendVerificationCodeCooldown,Resend available in {0}s,可在 {0} 秒後重新傳送
+ResendingVerificationCode,Sending a new code…,正在傳送新代碼…
+Reset,Reset,重設
+ResetAll,Reset all,全部重設
+ResetAllKeybindings,Reset all keybindings,重設所有按鍵綁定
+ResetAllKeybindingsConfirmationMessage,Are you sure you want to reset all keybindings to their default values?,確定要將所有按鍵綁定重設為預設值嗎？
+ResetAllKeybindingsDescription,Reset all keybindings to their default values.,將所有按鍵綁定重設為預設值。
+ResetPassword,Reset password,重設密碼
+ResetSize,Reset size,重設大小
+ResetToDefault,Reset to Default,重設為預設
+ResettingPassword,Resetting password,正在重設密碼
+RestartCallForHdNote,You're currently in a voice call. Leave and rejoin to start streaming in HD with your new perks.,您目前正在語音通話中。請離開並重新加入，以使用新的權益開始 HD 串流。
+Resubscribe,Resubscribe,重新訂閱
+ResumePack,Resume pack,恢復組合包
+ResumePackConfirmationMessage,"Resume this pack of {0} cores? Auto-renewal turns back on at no charge today, and your regular billing continues {1}.",恢復這組 {0} 個核心的組合包？自動續訂今天會免費重新開啟，您的定期計費將於 {1} 繼續。
+ResumingPack,Resuming pack…,正在恢復組合包…
+Retry,Retry,重試
+ReturnToCurrent,Return to current,返回最新
+ReturnToPresent,Return to present,返回最新
+Revert,Revert,還原
+RevokeBan,Revoke ban,撤銷封鎖
+RevokingBan,Revoking ban,正在撤銷封鎖
+RightClickForMoreActions,Right click for more actions,按右鍵查看更多動作
+RoleChannelAssignmentDescription,Assign this role to channels. Members with this role can see those channels and the role's permissions apply there.,將此身分組指派到頻道。擁有此身分組的成員可以檢視這些頻道，且身分組權限會套用於該處。
+RoleColor,Role color,身分組顏色
+RoleColorHexCreatedCommunityLogDetail,Set the color to **{0}**.,將顏色設定為 **{0}**。
+RoleColorHexUpdatedCommunityLogDetail,Changed the color from {0} to {1}.,將顏色從 {0} 變更為 {1}。
+RoleCreatedCommunityLog,**{0}** created a new role.,**{0}** 建立了一個新身分組。
+RoleDeletedCommunityLog,**{0}** deleted the role **{1}**.,**{0}** 刪除了身分組 **{1}**。
+RoleIsMentionable,Role is mentionable,身分組可被提及
+RoleIsMentionableDescription,"When enabled, any member can mention this role",啟用後，任何成員都可以提及此身分組
+RoleIsMentionableDescriptionNote,"Note: members with the 'Use Global Mentions' permission can always mention this role, even if this setting is turned off",注意：擁有「使用全域提及」權限的成員一律可以提及此身分組，即使此設定已關閉
+RoleIsSelfAssignable,Role is self assignable,身分組可自行指派
+RoleIsSelfAssignableDescription,"When enabled, any member can add or remove this role from themselves",啟用後，任何成員都可以自行新增或移除這個身分組
+RoleMapCreatedViewActionLogDetail,**{0}** can now view **#{1}**.,**{0}** 現在可以檢視 **#{1}**。
+RoleMapDeletedNoViewActionLogDetail,**{0}** can no longer view **#{1}**.,**{0}** 不能再檢視 **#{1}**。
+RoleMentionAdminAssignableDescription,You have permission to add or remove this role from yourself.,您有權限自行新增或移除這個身分組。
+RoleMentionAllDescription,This mention notifies everyone in this channel.,此提及會通知此頻道中的所有人。
+RoleMentionHereDescription,This mention notifies online members of this channel.,此提及會通知此頻道中線上的成員。
+RoleMentionJoinRole,Add me to this role,把我加入這個身分組
+RoleMentionLeaveRole,Remove me from this role,把我從這個身分組移除
+RoleMentionNotSelfAssignableDescription,Only members with permission can assign this role.,只有擁有權限的成員才能指派此身分組。
+RoleMentionSelfAssignableDescription,This role is self assignable. You can add or remove yourself from it.,此身分組可自行指派。您可以自行加入或移除。
+RoleName,Role name,身分組名稱
+RoleNameUpdatedCommunityLogDetail,Changed the name from **{0}** to **{1}**.,將名稱從 **{0}** 變更為 **{1}**。
+RolePermissionCreatedCommunityLogDetail,{0} = **{1}**,{0} = **{1}**
+RolePermissionUpdatedCommunityLogDetail,{0} = **{1}**,{0} = **{1}**
+RolePreviewCapitalized,ROLE PREVIEW,身分組預覽
+RoleUpdatedCommunityLog,**{0}** updated the role **{1}**.,**{0}** 更新了身分組 **{1}**。
+Roles,Roles,身分組
+RolesCount,{0} roles,{0} 個身分組
+RolesEmpty,No roles found,找不到任何身分組
+RolesEmptyDescription,Add roles to organize and manage your communities members,新增身分組以整理並管理您的社群成員
+RootDark,Root dark,Root 深色
+RootTeamSignature,- Root Team,— Root 團隊
+RootVersion,Root Version: {0},Root 版本：{0}
+Save,Save,儲存
+SaveChanges,Save changes,儲存變更
+SaveImage,Save image,儲存圖片
+SavingChanges,Saving changes,正在儲存變更
+SchedulingCoreMove,Scheduling move…,正在排定搬移…
+ScreenBandwidth,Bandwidth,頻寬
+ScreenFps,FPS,FPS
+ScreenResolution,Resolution,解析度
+ScreenShareDeviceErrorDescription,Could not start your screen share. Check your screen recording permissions and try again. You are still in the call.,無法啟動您的螢幕分享。請檢查您的螢幕錄製權限後再試。您仍在通話中。
+ScreenShareDeviceErrorTitle,Screen share error,螢幕分享錯誤
+ScreenSharing,SCREEN SHARING,螢幕分享
+ScreenshareAudioFailed,Failed to share screen with audio. Screen audio has been disabled for future attempts.,無法分享含音訊的螢幕。螢幕音訊已停用，日後不會再嘗試。
+ScreenshareAudioFailedTitle,Screen share failed,螢幕分享失敗
+ScreenshareMode,Screenshare mode,螢幕分享模式
+ScreenshareModeDescription,Text clarity (Source @ 5fps),文字清晰度（來源 @ 5fps）
+Search,Search,搜尋
+SearchApps,Search apps,搜尋 App
+SearchBannedMembers,Search banned members,搜尋已封鎖的成員
+SearchBans,Search bans,搜尋封鎖
+SearchBots,Search bots,搜尋機器人
+SearchChannels,Search channels,搜尋頻道
+SearchCommunities,Search communities,搜尋社群
+SearchCommunity,Search community,搜尋社群
+SearchCurrentChannel,Search channel,搜尋頻道
+SearchEmojis,Search emojis,搜尋表情符號
+SearchEmpty,No results found,找不到任何結果
+SearchEmptyDescription,Try a different search phrase,請嘗試不同的搜尋詞
+SearchFilesCount,Files ({0}),檔案（{0}）
+SearchFriends,Search friends,搜尋好友
+SearchInvites,Search invites,搜尋邀請
+SearchMembers,Search members,搜尋成員
+SearchMembersCount,Members ({0}),成員（{0}）
+SearchMessagesCount,Messages ({0}),訊息（{0}）
+SearchPermissions,Search permissions,搜尋權限
+SearchRoles,Search roles,搜尋身分組
+SearchRolesOrMembers,Search roles or members,搜尋身分組或成員
+SearchTenor,Search Tenor,搜尋 Tenor
+SelectAll,Select all,全選
+SelectAnImageToUpload,Select an image to upload,選取要上傳的圖片
+SelectChannel,Select channel,選取頻道
+SelectFilesToUpload,Select files to upload,選取要上傳的檔案
+SelectedChannelCount,{0} channels selected,已選取 {0} 個頻道
+Send,Send,傳送
+SendCode,Send code,傳送代碼
+SendFeedbackViaSupportButton,Send feedback via the Support button ,透過「支援」按鈕傳送回饋
+SendFriendRequest,Send friend request,傳送好友邀請
+SendMessage,Send message,傳送訊息
+SendMessages,Send Messages,傳送訊息
+SendMessagesDescription,"Create, edit, and delete your own messages.",建立、編輯與刪除自己的訊息。
+SendVerificationEmail,Send verification email,傳送驗證電子郵件
+SendingEmail,Sending email,正在傳送電子郵件
+SendingFriendRequest,Sending friend request,正在傳送好友邀請
+SendingSubmission,Sending submission,正在傳送提交內容
+Sent,Sent,已傳送
+SetDefault,Set default,設為預設
+SetDefaultPaymentMethodConfirmationMessage,Use the card ending in **{0}** as your default payment method for future charges?,將尾號為 **{0}** 的卡片設為未來收費的預設付款方式？
+SetDefaultPaymentMethodTitle,Set as default,設為預設
+SetNewPasswordDescription,You must set a new password before removing your last passkey.,您必須在移除最後一個 Passkey 之前設定新密碼。
+SetNewPasswordTitle,Set New Password,設定新密碼
+SetPassword,Set Password,設定密碼
+SetPasswordScreenDescription,Your account doesn't have a password. Add one if you'd like a fallback sign-in option.,您的帳號沒有密碼。若您想要備用登入方式，可以新增一個。
+SetStatus,Set status,設定狀態
+SettingDefaultPaymentMethod,Updating default payment method,正在更新預設付款方式
+SettingPassword,Setting password...,正在設定密碼...
+Settings,Settings,設定
+SeveralOfYourCores,{0} of your cores,您的 {0} 個核心
+SexualContent,Sexual content,色情內容
+ShareLinkToGiveAccess,Share this link to give others access,分享此連結以授予他人存取權
+ShareStreamAudio,Share stream audio,分享串流音訊
+ShareYourScreen,Share your screen,分享您的螢幕
+SharingScreen,Sharing screen,正在分享螢幕
+SharingVideo,Sharing video,正在分享視訊
+Shift,Shift,Shift
+Shortcode,Shortcode,短代碼
+Shortcut,Shortcut,捷徑
+ShowChannelMembers,Show channel members,顯示頻道成員
+ShowCommunityMembers,Show community members,顯示社群成員
+ShowKeyboardShortcuts,Keyboard shortcuts,鍵盤捷徑
+ShowRoot,Show Root,顯示 Root
+SignIn,Sign in,登入
+SignInToPickUpWhereYouLeftOff,Sign in to pick up where you left off,登入以接續您離開的地方
+SignInWithPasskey,Log in with Passkey,使用 Passkey 登入
+SignOut,Sign out,登出
+SignOutConfirmationMessage,Are you sure you want to sign out?,確定要登出嗎？
+SinceDate,since {0},自 {0} 起
+SmoothScrolling,Smooth scrolling,平滑捲動
+SmoothScrollingDescription,"Enable physics-based smooth scrolling with inertia. Disable for instant, traditional scrolling.",啟用具慣性的物理平滑捲動。停用以使用即時、傳統的捲動。
+SomeFilesAreTooBig,Some of your files are too big,您的一些檔案過大
+SortByCores,Highest level,最高等級
+SortByMembers,Most members,最多成員
+Spam,Spam,垃圾訊息
+Spoiler,Spoiler,劇透
+StartYourCommunity,Start your community,開始您的社群
+StatusAway,Away,離開
+StatusInvalid,Invalid status,無效狀態
+StatusOffline,Offline,離線
+StatusOnline,Online,線上
+StatusUnknown,Unknown status,未知狀態
+StopSharingYourScreen,Stop sharing your screen,停止分享您的螢幕
+StreamAudio,Stream Audio,串流音訊
+StreamAudioDescription,Use voice chat.,使用語音聊天。
+StreamInHdWithSudo,Unlock HD streaming with Sudo,使用 Sudo 解鎖 HD 串流
+StreamMedia,Stream Media,串流媒體
+StreamQuality,Stream quality,串流品質
+StreamVideo,Stream Video,串流視訊
+StreamVideoDescription,Use video chat and screen sharing.,使用視訊聊天與螢幕分享。
+StreamVolume,Stream volume,串流音量
+StreamerMode,Streamer mode,串流模式
+StreamerModeAutoDetectDescription,"Automatically enable Streamer mode when OBS, XSplit, or other streaming software is running.",在 OBS、XSplit 或其他串流軟體執行時自動啟用串流模式。
+StreamerModeAutoDetectTitle,Auto-enable when streaming software detected,偵測到串流軟體時自動啟用
+StreamerModeAutomaticActivation,Automatic activation,自動啟動
+StreamerModeDisable,Disable,停用
+StreamerModeDisableNotificationsDescription,Prevent desktop notification pop-ups from appearing on screen.,防止桌面通知彈出視窗出現在螢幕上。
+StreamerModeDisableNotificationsTitle,Disable desktop notifications,停用桌面通知
+StreamerModeDisableSoundsDescription,Mute all notification sounds while Streamer mode is enabled.,在串流模式啟用時靜音所有通知音效。
+StreamerModeDisableSoundsTitle,Disable notification sounds,停用通知音效
+StreamerModeEnabled,Streamer mode enabled,串流模式已啟用
+StreamerModeHideInviteLinksDescription,Hide invite link codes from view. You can still copy them using the copy button.,隱藏邀請連結代碼。您仍然可以使用複製按鈕複製它們。
+StreamerModeHideInviteLinksTitle,Hide invite links,隱藏邀請連結
+StreamerModeHideMessagePreviewsDescription,Hide message content in notifications and direct message previews.,隱藏通知與私訊預覽中的訊息內容。
+StreamerModeHideMessagePreviewsTitle,Hide message previews,隱藏訊息預覽
+StreamerModeHidePersonalInfoDescription,Hide your email address and notes on member profiles.,隱藏您在成員個人檔案上的電子郵件地址與記事。
+StreamerModeHidePersonalInfoTitle,Hide personal information,隱藏個人資訊
+StreamerModeSettings,Streamer mode settings,串流模式設定
+StreamerModeWhenActive,When streamer mode is active,串流模式啟用時
+Strikethrough,Strikethrough,刪除線
+Submit,Submit,提交
+SubscribeToSudoCoreEveryMonth,Subscribe to Sudo and get 1 core every month.,訂閱 Sudo，每個月獲得 1 個核心。
+SubscribeToSudoGetOneCore,Subscribe to Sudo to get 1 core every month.,訂閱 Sudo，每個月獲得 1 個核心。
+Subscribed,"Subscribed {0:MMM d, yyyy}","已訂閱 {0:MMM d, yyyy}"
+SubscriptionCancelled,Subscription cancelled,訂閱已取消
+SubscriptionPayment,Subscription payment,訂閱付款
+SuccessfullLogin,Successfully logged in,登入成功
+SuccessfullRegister,Successfully registered,註冊成功
+SuccessfullyBannedMember,Successfully banned member,成員封鎖成功
+SuccessfullyBannedMembers,Successfully banned members,成員封鎖成功
+SuccessfullyBlockedUser,Successfully blocked user,使用者封鎖成功
+SuccessfullyChangedEmail,Successfully changed email,電子郵件變更成功
+SuccessfullyCreatedBan,Successfully banned user,使用者封鎖成功
+SuccessfullyCreatedChannel,Successfully created channel,頻道建立成功
+SuccessfullyCreatedChannelGroup,Successfully created channel group,頻道群組建立成功
+SuccessfullyCreatedCommunity,Successfully created community,社群建立成功
+SuccessfullyCreatedGroup,Successfully created group,群組建立成功
+SuccessfullyDeleted,Successfully deleted,刪除成功
+SuccessfullyDeletedChannel,Successfully deleted channel,頻道刪除成功
+SuccessfullyDeletedChannelGroup,Successfully deleted channel group,頻道群組刪除成功
+SuccessfullyDeletedCommunity,Successfully deleted community,社群刪除成功
+SuccessfullyDeletedCommunityLink,Successfully deleted link,連結刪除成功
+SuccessfullyDeletedEmoji,Emoji deleted successfully,表情符號刪除成功
+SuccessfullyDeletedFriendGroup,Successfully deleted friend group,好友群組刪除成功
+SuccessfullyDeletedMessage,Successfully deleted message,訊息刪除成功
+SuccessfullyDeletedNotifications,Successfully deleted notifications,通知刪除成功
+SuccessfullyDeletedRole,Successfully deleted role,身分組刪除成功
+SuccessfullyEditedChannel,Successfully edited channel,頻道編輯成功
+SuccessfullyEditedFriendGroup,Successfully edited friend group,好友群組編輯成功
+SuccessfullyKickedMember,Successfully kicked member,成員已成功踢出
+SuccessfullyKickedMembers,Successfully kicked members,成員已成功踢出
+SuccessfullyLeftCommunity,Successfully left community,已成功離開社群
+SuccessfullyLeftDirectMessage,Successfully left direct message,已成功離開私訊
+SuccessfullyRemovedApp,Successfully removed app,App 移除成功
+SuccessfullyRemovedFriend,Successfully removed friend,好友移除成功
+SuccessfullyReportedMessage,Successfully reported message,訊息檢舉成功
+SuccessfullyReportedUser,Successfully reported user,使用者檢舉成功
+SuccessfullyResetPassword,Successfully reset password,密碼重設成功
+SuccessfullyRevokedBan,Successfully revoked ban,封鎖撤銷成功
+SuccessfullySavedChanges,Successfully saved changes,變更儲存成功
+SuccessfullySentEmail,Successfully sent email,電子郵件傳送成功
+SuccessfullySentRequest,Successfully sent request,邀請傳送成功
+SuccessfullySubmittedTicket,Successfully submitted ticket,工單提交成功
+SuccessfullyTransferredOwnership,Successfully transferred ownership,所有權轉移成功
+SuccessfullyUpdatedApp,Successfully updated app,App 更新成功
+SuccessfullyUpdatedPassword,Successfully updated password,密碼更新成功
+SuccessfullyUploadedEmoji,Emoji uploaded successfully,表情符號上傳成功
+SuccessfullyVerifiedAccount,Successfully verified your account,帳號驗證成功
+Sudo,Sudo,Sudo
+SudoSubscription,Sudo subscription,Sudo 訂閱
+SudoSubscriptionPayment,Sudo subscription,Sudo 訂閱
+SudoWelcomeSubtitle,Thanks for supporting Root. Here's what's unlocked:,感謝您支持 Root。以下是已解鎖的內容：
+SudoWelcomeTitle,Welcome to Sudo,歡迎使用 Sudo
+Suggestion,Suggestion,建議
+Support,Support,支援
+SupportRootWithSudo,Support Root with Sudo,使用 Sudo 支持 Root
+SwitchCall,Switch call,切換通話
+SwitchChannelDown,Next channel,下一個頻道
+SwitchChannelUp,Previous channel,上一個頻道
+SwitchTabDown,Next tab,下一個分頁
+SwitchTabUp,Previous tab,上一個分頁
+SwitchVoiceCall,Switch voice call?,切換語音通話？
+SwitchVoiceCallDescription,You are currently in a call. Switching will disconnect you from **{0}** and join **{1}**.,您目前正在通話中。切換會讓您與 **{0}** 中斷連線，並加入 **{1}**。
+SyncPermissionsAllCaps,SYNC PERMISSIONS,同步權限
+SyncPermissionsDescription,Sync all permissions to the parent channel group,將所有權限同步至父頻道群組
+SystemInfo,System Info: {0},系統資訊：{0}
+SystemMessagesChannel,System messages channel,系統訊息頻道
+SystemMessagesChannelDescription,This channel is designated to dispatching system event notifications. It can be disabled at any given moment.,此頻道專門用於發送系統事件通知。可以隨時停用。
+SystemString,System,系統
+TalkInVoiceChannel,Talk in voice channel,在語音頻道說話
+TalkInVoiceChannelDescription,Allows members to talk in voice channels with equal or lower level,允許成員在等級相同或較低的語音頻道中說話
+TapToReplyDescription,"Click on a message to quickly start a reply. When disabled, use the action bar or right-click menu to reply.",按一下訊息即可快速開始回覆。停用後，請使用動作列或右鍵選單回覆。
+TapToReplyTitle,Tap to reply,點按回覆
+TaskbarAttentionDescription,Grab your attention by flashing the taskbar icon,透過閃爍工作列圖示吸引您的注意
+TaskbarAttentionTitle,Taskbar attention,工作列提醒
+TemplateImported,Template imported,範本已匯入
+TermsOfUse,Terms of Use,使用條款
+ThanksForHelpingShapeRoot,Thanks for helping shape what Root becomes.,感謝您協助塑造 Root 的未來。
+TheFirst,The first,第一個
+Theme,Theme,佈景主題
+ThisCommunity,this community,此社群
+Title,Title,標題
+To,to ,至
+ToColon,To:,收件人：
+ToGetStarted,to get started,以開始使用
+ToggleDeafen,Toggle deafen,切換靜音耳機
+ToggleMembersList,Toggle members list,切換成員清單
+ToggleMute,Toggle mute,切換靜音
+ToggleOverlayInteractive,Toggle overlay interactive mode,切換覆疊互動模式
+ToggleStreamerMode,Toggle streamer mode,切換串流模式
+TransactionHistory,Transaction history,交易紀錄
+TransactionHistoryEmpty,No transactions yet,還沒有任何交易
+TransactionHistoryEmptyDescription,"Once you subscribe or make a purchase, your transactions will show up here.",一旦您訂閱或購買，您的交易就會顯示在這裡。
+Transfer,Transfer,轉移
+TransferOwnership,Transfer ownership,轉移所有權
+TransferOwnershipConfirmationMessage,This will transfer ownership of **{0}** to **{1}**? This action cannot be undone.,這會將 **{0}** 的所有權轉移給 **{1}**？此動作無法復原。
+TransferringOwnership,Transferring ownership,正在轉移所有權
+TryAgain,Try again,再試一次
+TryDifferentSearchTerm,Try a different search term,請嘗試不同的搜尋詞
+TurnOffCamera,Turn off camera,關閉相機
+TurnOnCamera,Turn on camera,開啟相機
+TypeInTextChannel,Type in text channel,在文字頻道輸入
+TypeInTextChannelDescription,Allows members to type messages in text channels with equal or lower level,允許成員在等級相同或較低的文字頻道中輸入訊息
+TypeUsername,Type username,輸入使用者名稱
+TypingOne,{0} is typing,{0} 正在輸入
+TypingSeveral,Several people are typing,有幾個人正在輸入
+TypingThree,"{0}, {1}, and {2} are typing",{0}、{1} 和 {2} 正在輸入
+TypingTwo,{0} and {1} are typing,{0} 和 {1} 正在輸入
+Unassign,Unassign,取消指派
+UnassignCore,Unassign core,取消指派核心
+UnassignCoreConfirmationMessage,Your core will be removed from **{0}** at the start of its next billing cycle. Until then it keeps powering the community.,您的核心將於其下一個計費週期開始時從 **{0}** 移除。在那之前，它會繼續為社群供電。
+UnassigningCore,Unassigning core…,正在取消指派核心…
+Unban,Unban,解除封鎖
+Unblock,Unblock,解除封鎖
+Undeafen,Undeafen,取消靜音耳機
+UnknownCommunityLog,Unknown log type. Your client may need an update!,未知的紀錄類型。您的用戶端可能需要更新！
+UnknownSystemMessage,Unknown system message. Your client may need an update!,未知的系統訊息。您的用戶端可能需要更新！
+Unlocked,Unlocked,已解鎖
+UnlockedBenefitsCapitalized,UNLOCKED BENEFITS,已解鎖的權益
+Unmute,Unmute,取消靜音
+UnpinFromTab,Unpin from tab,從分頁取消釘選
+UnpinMessage,Unpin message,取消釘選訊息
+UpdateApp,Update App,更新 App
+UpdateAppConfirmationMessage,Are you sure you want to update **{0}** to version **{1}**?,確定要將 **{0}** 更新至版本 **{1}** 嗎？
+UpdateClient,Update client,更新用戶端
+UpdatingApp,Updating app,正在更新 App
+UpdatingPassword,Updating password,正在更新密碼
+UploadBanner,Upload a banner,上傳橫幅
+UploadCustomIcon,Upload custom icon,上傳自訂圖示
+UploadEmoji,Upload Emoji,上傳表情符號
+UploadFailed,Upload failed,上傳失敗
+UploadFile,Upload file,上傳檔案
+UploadFiles,Upload Files,上傳檔案
+UploadFilesDescription,"Upload, view, and delete your files and directories. View others' files and directories.",上傳、檢視與刪除您的檔案與目錄。檢視他人的檔案與目錄。
+UploadImage,Upload image,上傳圖片
+UploadTo,Upload to ,上傳至
+UploadToDirectory,Upload to {0},上傳至 {0}
+UploadToDirectoryDescription,You can make changes when the upload is complete,上傳完成後您可以進行變更
+UploadedBy,Uploaded By,上傳者
+Uploading,Uploading,正在上傳
+UploadingEmoji,Uploading emoji,正在上傳表情符號
+UseAppChannel,Use app channel,使用 App 頻道
+UseAppChannelDescription,Allows members to use app channels with equal or lower level,允許成員使用等級相同或較低的 App 頻道
+UseExternalEmojis,Use External Emojis,使用外部表情符號
+UseExternalEmojisDescription,Use custom emojis from other communities.,使用其他社群的自訂表情符號。
+UseGlobalMentions,Use Global Mentions,使用全域提及
+UseGlobalMentionsDescription,Use global mentions such as @all and @here in your messages.,在訊息中使用 @all 與 @here 等全域提及。
+UsePasskey,Use Passkey,使用 Passkey
+UsePassword,Use Password,使用密碼
+UseUsernameNotEmail,Please use your username to sign in,請使用您的使用者名稱登入
+UserPermissions,User permissions,使用者權限
+UserProfile,User profile,使用者個人檔案
+UserRoleCreatedCommunityLog,**{0}** added user(s) to the **{1}** role.,**{0}** 將使用者加入了 **{1}** 身分組。
+UserRoleUserCreatedCommunityLogDetail,Added **{0}**.,已新增 **{0}**。
+UserRoleUserRemovedCommunityLog,**{0}** removed user(s) from the **{1}** role.,**{0}** 將使用者移出了 **{1}** 身分組。
+UserRoleUserRemovedCommunityLogDetail,Removed **{0}**.,已移除 **{0}**。
+UserSettings,USER SETTINGS,使用者設定
+UserVolume,User volume,使用者音量
+Username,Username,使用者名稱
+UsernameAlreadyExists,Username already exists,使用者名稱已存在
+UsernameChangeRateLimited,Too many attempts. Please wait a few minutes and try again,嘗試次數過多。請稍候幾分鐘再試
+UsernameEmailInstructions,We’ve sent your username to the email address you provided. You can now log in and get back to it.,我們已將您的使用者名稱傳送至您提供的電子郵件地址。您現在可以登入並繼續使用。
+Uses,Uses,使用次數
+ValidateEmail,Are you sure you want to delete **{0}**? This cannot be undone.,確定要刪除 **{0}** 嗎？此動作無法復原。
+VerificationCode,Verification code,驗證碼
+VerificationCodeCooldownDescription,We’re just waiting a moment before resending your code. You’ll be able to try again shortly.,我們需要稍候片刻才能重新傳送您的代碼。您很快就可以再試。
+VerificationCodeCooldownTitle,Thanks for your patience,感謝您的耐心等候
+VerificationCodePlaceholder,000000,000000
+VerificationCodeRequired,Verification code is required,必須輸入驗證碼
+VerificationRequiredDescription,This community requires **verified** users. Please verify your account to join.,此社群僅限**已驗證**的使用者。請先驗證您的帳號再加入。
+VerificationRequiredTitle,Verification required,需要驗證
+Verified,Verified,已驗證
+VerifiedCommunities,Verified communities,已驗證社群
+VerifiedCommunitiesCapitalized,VERIFIED COMMUNITIES,已驗證社群
+VerifiedCommunity,Verified community,已驗證社群
+VerifiedMemberAccess,Verified member access,僅限已驗證成員存取
+VerifiedMemberAccessDescription,Allows only verified users to join the community.,僅允許已驗證的使用者加入社群。
+Verify,Verify,驗證
+VerifyAccountToContinue,Verify your account to continue,驗證您的帳號以繼續
+VerifyEmailPrompt,Your account is not verified. Please verify your email to access all features.,您的帳號尚未驗證。請驗證您的電子郵件以使用所有功能。
+VerifyEmailRequiredForSudo,You need a verified email before you can subscribe to Sudo.,您需要已驗證的電子郵件才能訂閱 Sudo。
+VerifyIdentity,Verify Identity,驗證身分
+VerifyIdentityDescription,Choose how you'd like to verify your identity to continue.,選擇您想要用來驗證身分以繼續的方式。
+VerifyYourEmail,Verify your email,驗證您的電子郵件
+VerifyingAccount,Verifying your account,正在驗證您的帳號
+VideoSettings,Video settings,視訊設定
+ViewActionLog,View Action Log,檢視動作紀錄
+ViewActionLogDescription,View a record of logged member actions.,檢視已記錄的成員動作。
+ViewCall,View call,檢視通話
+ViewChannel,View channel,檢視頻道
+ViewChannelDescription,Allows members to view channels with equal or lower level,允許成員檢視等級相同或較低的頻道
+ViewChannels,View Channels,檢視頻道
+ViewDetails,View details,檢視詳情
+ViewFiles,View Files,檢視檔案
+ViewFilesDescription,View files and directories.,檢視檔案與目錄。
+ViewHistory,View History,檢視歷史
+ViewHistoryDescription,View messages in a channel that were sent before the date you joined the community.,檢視頻道中在您加入社群日期之前傳送的訊息。
+ViewMessageHistory,View Message History,檢視訊息歷史
+ViewMessages,View messages,檢視訊息
+ViewTransactionHistory,View transaction history,檢視交易紀錄
+ViewingOlderMessages,You're Viewing Older Messages,您正在檢視較舊的訊息
+Violence,Violence,暴力
+VisitSite,Visit site,造訪網站
+VoiceActivity,Voice activity,語音活動
+VoiceAndVideo,Voice and video,語音與視訊
+VoiceConnected,Connected,已連線
+VoiceConnectedFull,Voice connected,語音已連線
+VoiceConnecting,Connecting,正在連線
+VoiceDisconnected,Disconnected,已中斷連線
+VoiceDisconnecting,Disconnecting,正在中斷連線
+VoiceError,Voice Error,語音錯誤
+VoiceOverlayDescription,Display voice channel members over fullscreen games,在全螢幕遊戲上顯示語音頻道成員
+VoiceOverlayPosition,Voice overlay position,語音覆疊位置
+VoiceOverlayTitle,Enable voice overlay,啟用語音覆疊
+VoiceTalk,Voice Talk,語音通話
+WaitingForPasskey,Waiting for passkey...,正在等待 Passkey...
+Welcome,Welcome!,歡迎！
+WelcomeBack,Welcome back,歡迎回來
+WelcomeTo,Welcome to {0}!,歡迎來到 {0}！
+WelcomeToRoot,Welcome to Root 👋,歡迎使用 Root 👋
+WellKnownPasswordMessage,Password provided is commonly used and not secure,提供的密碼太常見，不安全
+WhatIsACore,WHAT IS A CORE?,什麼是核心？
+WhatToDoNext,What to do next:,接下來做什麼：
+WhatsNew,What's New,最新消息
+WillBeRemoved,Will be removed {0},將於 {0} 被移除
+Windows,Windows,Windows
+WindowsSettings,Windows settings,Windows 設定
+X,X,X
+YouHaveBeen,You have been,您已被
+YouHaveMoreCoresAvailable,{0}. You have {1} more available,{0}。您還有 {1} 個可用
+YouHaveOneMoreCoreAvailable,{0}. You have 1 more available,{0}。您還有 1 個可用
+YouHaveUnsavedChanges,You have unsaved changes,您有未儲存的變更
+YouPoweredCommunityToNextLevel,YOU POWERED THIS COMMUNITY TO THE NEXT LEVEL!,您讓此社群升級到下一等級了！
+YourCommunities,Your communities,您的社群
+YourCoreLeaves,Your core leaves {0},您的核心將離開 {0}
+YourCoreMovesHere,Your core moves here {0},您的核心將於 {0} 搬到這裡
+YourCorePoweringCommunity,Your core is powering this community,您的核心正在為此社群供電
+YourCores,Your cores,您的核心
+YourCoresCapitalized,YOUR CORES,您的核心
+YourCoresMoveHere,{0} of your cores move here {1},您的 {0} 個核心將於 {1} 搬到這裡
+YourCoresPoweringCommunity,Your {0} cores are powering this community,您的 {0} 個核心正在為此社群供電
+YourFilesAreTooBig,Your files are too big,您的檔案過大
+YourPasskeys,Your Passkeys,您的 Passkey
+YouveBeenInvitedToJoin,You've been invited to join:,您已被邀請加入：
+ZoomIn,Zoom In,放大
